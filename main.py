@@ -1,6 +1,6 @@
 import re
-
 import pandas as pd
+from collections import Counter
 
 pd.set_option("display.max_columns", None)
 pd.set_option("display.max_rows", None)
@@ -72,6 +72,11 @@ for index, row in df.iterrows():
 df["Tematiche"] = token_values
 
 print(df.loc[:, ["anno", "Canzone", "Tematiche"]])
+
+grouped = df.groupby("anno")["Tematiche"].sum()
+word_counts = grouped.apply(lambda words: Counter(words).most_common())
+grouped.apply(lambda words: Counter(dict(Counter(words).most_common())))
+print(word_counts)
 
 """ Conversione posizione """
 df["Posizione"] = df["Posizione"].astype(str)

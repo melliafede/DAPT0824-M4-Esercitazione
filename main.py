@@ -1,7 +1,8 @@
 import re
 import pandas as pd
 from collections import Counter
-from sentence_transformers import SentenceTransformer, util
+
+# from sentence_transformers import SentenceTransformer, util
 
 
 pd.set_option("display.max_columns", None)
@@ -12,6 +13,9 @@ file_path = "dati-classifica-sanremo-1951-2023.xlsx"
 df = pd.read_excel(io=file_path)
 df = df.set_index("Unnamed: 0")
 df.index.name = None
+
+# print(df)
+# exit()
 
 ''' Generazione tokens '''
 articoli_determinativi = ['il', 'lo', "la", 'i', 'gli', 'le', 'l']
@@ -64,11 +68,15 @@ avverbi_negazione = [
     "non", "mai", "più", "affatto", "mica", "neanche", "nemmeno", "neppure",
     "niente", "nulla", "alcunché", "nessuno"
 ]
+extra = [
+    "è", "come", "sei", "se", "quando", "senza", "così", "grande", "no", "voglio",
+    "solo", "ho", "bella", "ciao", "qui", "sono", "due"
+]
 
 exclude_words = (articoli_indeterminativi + articoli_determinativi + preposizioni_semplici + preposizioni_articolate
                  + congiunzioni_coordinanti + pronomi_indefiniti + pronomi_personali + pronomi_possessivi
                  + pronomi_relativi + pronomi_dimostrativi + pronomi_interrogativi_esclamativi
-                 + avverbi_negazione)
+                 + avverbi_negazione + extra)
 
 token_values = []
 for index, row in df.iterrows():
@@ -82,62 +90,26 @@ df["Tematiche"] = token_values
 print(df.loc[:, ["anno", "Canzone", "Tematiche"]])
 
 grouped = df.groupby("anno")["Tematiche"].sum()
-print("-"*50)
+print("-" * 50)
 print(grouped)
 word_counts = grouped.apply(lambda words: Counter(words).most_common())
 grouped.apply(lambda words: Counter(dict(Counter(words).most_common())))
 print(word_counts)
-
-
 
 all_tokens = df["Tematiche"].sum()
 tokens_count = Counter(all_tokens)
 print("-" * 50)
 print(tokens_count)
 
-words_df = pd.DataFrame(tokens_count.items(), columns=["Words", "Frequency"]).sort_values(by="Frequency", ascending=False)
+words_df = pd.DataFrame(tokens_count.items(), columns=["Words", "Frequency"]).sort_values(by="Frequency",
+                                                                                          ascending=False)
 print(words_df)
-
-# """ Test with sentence transformer"""
-# # Carica il modello multilingua
-# model = SentenceTransformer('distiluse-base-multilingual-cased-v1')
-#
-# # Definisci i temi e descrizioni rappresentative
-# temi = {
-#     "amore": "amore, cuore, emozione, affetto",
-#     "musica": "musica, canzone, melodia, ritmo",
-#     "libertà": "libertà, volare, sogno, volo",
-#     "natura/tempo": "notte, giorno, cielo, tempo, natura",
-#     "dolore/emozioni": "tristezza, pianto, dolore, lacrime",
-#     "altro": "altri argomenti generici"
-# }
-#
-# # Calcola gli embeddings dei temi
-# temi_testi = list(temi.values())
-# temi_labels = list(temi.keys())
-# temi_embeddings = model.encode(temi_testi, convert_to_tensor=True)
-#
-# titoli = df["Canzone"].tolist()
-# titoli_embeddings = model.encode(titoli, convert_to_tensor=True)
-#
-# # Assegna il tema più simile a ciascun titolo
-# assegnazioni = []
-# for i, titolo in enumerate(titoli):
-#     sim_scores = util.cos_sim(titoli_embeddings[i], temi_embeddings)
-#     best_idx = sim_scores.argmax()
-#     assegnazioni.append(temi_labels[best_idx])
-#
-# # Aggiunge la colonna "Tema"
-# df["Tema"] = assegnazioni
-#
-# print("-" * 50)
-# print(df.loc[:, ["anno", "Canzone", "Tema"]])
 
 """ Conversione posizione """
 df["Posizione"] = df["Posizione"].astype(str)
 pos_values = []
 for index, row in df.iterrows():
-    pos_value = re.findall(r'\d+', row["Posizione"])
+    pos_value = re.findall(r'\b\d+', row["Posizione"])
     if len(pos_value) > 0:
         pos_values.append(int(pos_value[0]))
     else:
@@ -145,10 +117,56 @@ for index, row in df.iterrows():
 
 df["Pos"] = pos_values
 
-# print(df.loc[:, ["anno","Posizione", "Pos"]])
+print(df.loc[df["Interprete"]=="Alexia", ["anno", "Posizione", "Interprete"]])
+exit()
 
+""" Filtro posizioni numeriche"""
+pos_df = df[df["Pos"].apply(lambda x: isinstance(x, int))]
+# print(pos_df.loc[:, ["anno","Pos", "Interprete"]])
+# exit()
+
+""" Canzoni vincenti """
+winning_df = df.loc[df["Pos"] == 1]
+flags_amore = []
+for index, row in winning_df.iterrows():
+    if "amore" in row["Tematiche"]:
+        flags_amore.append("True")
+    else:
+        flags_amore.append("False")
+
+winning_df["FlagAmore"] = flags_amore
+print("-" * 50)
+print(winning_df.shape[0])
+print("-" * 50)
+print(winning_df.loc[:, ["anno", "Canzone", "Tematiche", "Pos", "FlagAmore"]])
+
+winning_words_list = winning_df["Tematiche"].sum()
+print("-" * 50)
+print("Winning words list")
+print(Counter(winning_words_list))
+print("-" * 50)
+
+""" Top 3 """
+top3_df = df.loc[(df["Pos"] == 1) | (df["Pos"] == 2) | (df["Pos"] == 3)]
+flags_amore = []
+for index, row in top3_df.iterrows():
+    if "amore" in row["Tematiche"]:
+        flags_amore.append("True")
+    else:
+        flags_amore.append("False")
+
+top3_df["FlagAmore"] = flags_amore
+print("-" * 50)
+print(top3_df.shape[0])
+print("-" * 50)
+print(top3_df.loc[:, ["anno", "Canzone", "Tematiche", "Pos", "FlagAmore"]])
+
+""" Conteggio numero titoli"""
 numero_titoli = df.shape[0]
 
-
+""" Scrittura files """
+pos_df.to_csv("pos_interpreti.csv", index=False, encoding="utf-8")
+top3_df.to_csv("top3_titles.csv", index=False, encoding="utf-8")
+winning_df.to_csv("winning_titles.csv", index=False, encoding="utf-8")
 words_df.to_csv("words_count.csv", index=False, encoding="utf-8")
 df.to_csv("output.csv", index=False, encoding="utf-8")

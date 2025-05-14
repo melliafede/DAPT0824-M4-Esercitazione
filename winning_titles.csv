@@ -1,0 +1,74 @@
+Posizione,Interprete,Canzone,anno,Autori,Tematiche,Pos,FlagAmore
+1º,Nilla Pizzi,Grazie dei fiori,1951,Gian Carlo Testoni e Mario Panzeri,"['grazie', 'fiori']",1,False
+1º,Nilla Pizzi,Vola Colomba,1952,B. Cherubini e C. Concina,"['vola', 'colomba']",1,False
+1º,Carla Boni - Flo Sandon's,Viale d'autunno,1953,G. D'Anzi,"['viale', 'autunno']",1,False
+1º,Giorgio Consolini - Gino Latilla,Tutte le mamme,1954,U. Bertini e E. Falcocchio,['mamme'],1,False
+1º,Claudio Villa - Tullio Pane,Buongiorno tristezza,1955,G. Fiorelli e M. Ruccione,"['buongiorno', 'tristezza']",1,False
+1º,Franca Raimondi,Aprite le finestre,1956,Pinchi e V. Panzuti,"['aprite', 'finestre']",1,False
+1º,Claudio Villa - Nunzio Gallo,Corde della mia chitarra,1957,G. Fiorelli e M. Ruccione,"['corde', 'chitarra']",1,False
+1º,Domenico Modugno - Johnny Dorelli,Nel blu dipinto di blu,1958,D. Modugno e F. Migliacci,"['blu', 'dipinto', 'blu']",1,False
+1º,Domenico Modugno - Johnny Dorelli,Piove (ciao ciao bambina),1959,D. Modugno e D. Verde,"['piove', 'bambina']",1,False
+1º,Tony Dallara - Renato Rascel,Romantica,1960,D. Verde e R. Rascel,['romantica'],1,False
+1º,Betty Curtis - Luciano Tajoli,Al di là,1961,Mogol - Donida,['là'],1,False
+1º,Domenico Modugno - Claudio Villa,Addio...addio...,1962,F. Migliacci e D. Modugno,"['addio', 'addio']",1,False
+1º,Tony Renis - Emilio Pericoli,Uno per tutte,1963,"Mogol, A. Testa e T. Renis",[],1,False
+1º,Gigliola Cinquetti - Patricia Carli,Non ho l'età (Per amarti),1964,"M. Panzeri, Nisa, G. Colonnello","['età', 'amarti']",1,False
+1º,Bobby Solo - The New Christy Minstrels,"Se piangi, se ridi",1965,"Mogol, G. Marchetti, R. Satti","['piangi', 'ridi']",1,False
+1º,Domenico Modugno - Gigliola Cinquetti,"Dio, come ti amo",1966,D. Modugno,"['dio', 'amo']",1,False
+1º,Claudio Villa - Iva Zanicchi,Non pensare a me,1967,A. Testa e E. Sciorilli,['pensare'],1,False
+1º,Sergio Endrigo - Roberto Carlos,Canzone per te,1968,"S. Endrigo, S. Bardotti",['canzone'],1,False
+1º,Bobby Solo - Iva Zanicchi,Zingara,1969,L. Albertelli e E. Riccardi,['zingara'],1,False
+1º,Adriano Celentano - Claudia Mori,Chi non lavora non fa l'amore,1970,"L. Beretta, M. Del Prete, A. Celentano, N. de Luca","['lavora', 'fa', 'amore']",1,True
+1º,Nada - Nicola Di Bari,Il cuore è uno zingaro,1971,F. Migliacci e C. Mattone,"['cuore', 'zingaro']",1,False
+1º,Nicola Di Bari,I giorni dell'arcobaleno,1972,"M. Scommegna, D. Masini, P. Pintucci","['giorni', 'dell', 'arcobaleno']",1,False
+1º,Peppino Di Capri,Un grande amore e niente più,1973,"F. Califano, G. Wright, G. Faiella, C. Mattone",['amore'],1,True
+1º,Iva Zanicchi,Ciao cara come stai?,1974,"C. Malgioglio, C. Daiano, Dinaro e I. Ianne","['cara', 'stai']",1,False
+1,Gilda,Ragazza del sud,1975,R. Scalabrino,"['ragazza', 'sud']",1,False
+1º,Peppino Di Capri,Non lo faccio più,1976,"Depsa, S. Iodice e F. Berlincioni",['faccio'],1,False
+1º,Homo Sapiens,Bella da morire,1977,R. Pareti e A. Salerno,['morire'],1,False
+1º,Matia Bazar,...e dirsi ciao,1978,"G. Golzi, A. Stellita, P. Cassano, C. Marrale e A. Ruggiero",['dirsi'],1,False
+1º,Mino Vergnaghi,Amare,1979,P. Finà e S. Ortone,['amare'],1,False
+1º,Toto Cutugno,Solo noi,1980,S. Cutugno,[],1,False
+1º,Alice,Per Elisa,1981,"C. Bissi, F. Battiato e G. Pio",['elisa'],1,False
+1º,Riccardo Fogli,Storie di tutti i giorni,1982,"R. Fogli, G. Morra e M. Fabrizio","['storie', 'giorni']",1,False
+1º,Tiziana Rivale,Sarà quel che sarà,1983,R. Ferri e M. Fabrizio,"['sarà', 'quel', 'sarà']",1,False
+1º,Al Bano e Romina Power,Ci sarà,1984,C. Minellono e D. Farina,['sarà'],1,False
+1º,Ricchi e Poveri,Se m'innamoro,1985,D. Farina e C. Minellono,"['m', 'innamoro']",1,False
+1º,Eros Ramazzotti,Adesso tu,1986,"E. Ramazzotti, P. Cassano e A. Cogliati",['adesso'],1,False
+1º,"Gianni Morandi, Enrico Ruggeri e Umberto Tozzi",Si può dare di più,1987,"G. Bigazzi, U. Tozzi e R. Riefoli","['può', 'dare']",1,False
+1º,Massimo Ranieri,Perdere l'amore,1988,M. Marrocchi e G. Artegiani,"['perdere', 'amore']",1,True
+1º,Anna Oxa e Fausto Leali,Ti lascerò,1989,"G. Fasano, F. Leali, F. Ciani, F. Berlincioni e S. Bardotti",['lascerò'],1,False
+1º,Pooh,Uomini soli,1990,V. Negrini e C. Facchinetti,"['uomini', 'soli']",1,False
+1º,Riccardo Cocciante,Se stiamo insieme,1991,R. Cocciante e Mogol,"['stiamo', 'insieme']",1,False
+1º,Luca Barbarossa,Portami a ballare,1992,L. Barbarossa,"['portami', 'ballare']",1,False
+1º,Enrico Ruggeri,Mistero,1993,E. Ruggeri,['mistero'],1,False
+1º,Aleandro Baldi,Passerà,1994,"A. Civai, G. Bigazzi e M. Falagiani",['passerà'],1,False
+1º,Giorgia,Come saprei,1995,"G. Todrani, E. Ramazzotti, V. Tosetto e A. Cogliati",['saprei'],1,False
+1º,Ron (con Tosca non accreditata),Vorrei incontrarti fra cent'anni,1996,R. Cellamare,"['vorrei', 'incontrarti', 'cent', 'anni']",1,False
+1º,Jalisse,Fiumi di parole,1997,"C. Di Domenico, A. Drusian e F. Ricci","['fiumi', 'parole']",1,False
+1º,Annalisa Minetti,Senza te o con te,1998,M. Luca e P. Palma,[],1,False
+1º,Anna Oxa,Senza pietà,1999,C. Guidetti e A. Salerno,['pietà'],1,False
+1º,Piccola Orchestra Avion Travel,Sentimento,2000,"D. Ciaramella, G. D'Argenzio, F. Mesolella, F. Spinetti, M. Tronco e G. Servillo",['sentimento'],1,False
+1º,Elisa,Luce (tramonti a nord est),2001,E. Toffoli e A. Fornaciari,"['luce', 'tramonti', 'nord', 'est']",1,False
+1º,Matia Bazar,Messaggio d'amore,2002,G. Golzi e P. Cassano,"['messaggio', 'amore']",1,True
+1º,Alexia,Per dire di no,2003,A. Salerno e Alexia,['dire'],1,False
+1º,Marco Masini,L'uomo volante,2004,"M. Masini, G. Dati e G. Orlandi","['uomo', 'volante']",1,False
+1,Francesco Renga,Angelo,2005,F. Renga e M. Zappatini,['angelo'],1,False
+1,Povia,Vorrei avere il becco,2006,G. Povia,"['vorrei', 'avere', 'becco']",1,False
+1º,Simone Cristicchi,Ti regalerò una rosa,2007,S. Cristicchi,"['regalerò', 'rosa']",1,False
+1º,Giò Di Tonno e Lola Ponce,Colpo di fulmine,2008,G. Nannini,"['colpo', 'fulmine']",1,False
+1º,Marco Carta,La forza mia,2009,P. Carta,['forza'],1,False
+1º,Valerio Scanu,Per tutte le volte che...,2010,P. Carone,['volte'],1,False
+1º,Roberto Vecchioni,Chiamami ancora amore,2011,R. Vecchioni,"['chiamami', 'ancora', 'amore']",1,True
+1º,Emma,Non è l'inferno,2012,"F. Silvestre, L. Sala e E. Palmosi",['inferno'],1,False
+1º,Marco Mengoni,L'essenziale,2013,"R. Casalino, M. Mengoni e F. De Benedittis",['essenziale'],1,False
+1º,Arisa,Controvento,2014,G. Anastasi,['controvento'],1,False
+1º,Il Volo,Grande amore,2015,F. Boccia e C. Esposito,['amore'],1,True
+1º,Stadio,Un giorno mi dirai,2016,"S. Grandi, G. Curreri e L. Chiaravalli","['giorno', 'dirai']",1,False
+1º,Francesco Gabbani,Occidentali's Karma,2017,"F. Ilacqua, F. Gabbani e L. Chiaravalli","['occidentali', 's', 'karma']",1,False
+1º,Ermal Meta e Fabrizio Moro,Non mi avete fatto niente,2018,"E. Meta, F. Mobrici e A. Febo","['avete', 'fatto']",1,False
+1º,Mahmood,Soldi,2019,Mahmood,['soldi'],1,False
+1º,Diodato,Fai rumore,2020,Diodato e E. Roberts,"['fai', 'rumore']",1,False
+1º,Måneskin,Zitti e buoni,2021,"D. David, T. Raggi, V. De Angelis e E. Torchio","['zitti', 'buoni']",1,False
+1º,Mahmood e Blanco,Brividi,2022,"Mahmood, Blanco e Michelangelo",['brividi'],1,False
+1º,Marco Mengoni,Due vite,2023,"M. Mengoni, D. Petrella e D. Simonetta",['vite'],1,False

@@ -1,0 +1,469 @@
+Interprete,Sesso
+Eduardo De Crescenzo,M
+Sterling Saint-Jacques,M
+Fiorella Mannoia,F
+Carmen & Thompson,F;M
+Stefano Tosi,M
+Gianni Bella,M
+Sebastiano Occhino,M
+Jò Chiarello,F
+Tom Hooker,M
+Domenico Mattia,M
+Franco Fasano,M
+Al Bano e Romina Power,M;F
+Giuseppe Cionfoli,M
+Christian,M
+Jimmy Fontana,M
+Lene Lovich,F
+Elisabetta Viviani,F
+Mia Martini,F
+Stefano Sani,M
+Le Orme,M
+Riccardo Del Turco,M
+Plastic Bertrand,M
+Milk & Coffee,M;F
+Viola Valentino,F
+Mal,M
+Mario Castelnuovo,M
+Roberto Soffici,M
+Zucchero Fornaciari,M
+Vasco Rossi,M
+Rino Martinez,M
+Marina Lai,F
+Julie,F
+Claudio Villa,M
+Piero Cassano,M
+Fiordaliso,F
+Tiziana Rivale,F
+Donatella Milani,F
+Dori Ghezzi,F
+Amii Stewart,F
+Marco Armani,M
+Giorgia Fiorio,F
+Flavia Fortunato,F
+Bertín Osborne,M
+Riccardo Azzurri,M
+Richard Sanderson,M
+Zucchero,M
+Barbara Boncompagni,F
+Daniela Goggi,F
+Pinot,M
+Brunella Borciani,F
+Patrizia Danzi,F
+Nino Buonocore,M
+Sibilla,F
+Alessio Colombini,M
+Manuele Pepe,M
+Amedeo Minghi,M
+Patty Pravo,F
+Gruppo Italiano,M
+Marisa Sannia,F
+Alberto Camerini,M
+Garbo,F
+Enrico Ruggeri,M
+Stadio,M
+Luis Miguel,M
+Eros Ramazzotti,M
+Banco del Mutuo Soccorso,M
+Ivan Graziani,M
+Eugenio Finardi,M
+Mimmo Locasciulli,M
+New Trolls,M
+Zucchero Fornaciari & Randy Jackson Band,M;M
+Renzo Arbore,M
+Nino D'Angelo,M
+Fred Bongusto,M
+Loredana Bertè,F
+Rettore,F
+Mango,M
+Righeira,M
+Scialpi,M
+Rossana Casale,F
+Gianni Morandi, Enrico Ruggeri e Umberto Tozzi,M;M;M
+Lena Biolcati,F
+Tony Esposito,M
+Sergio Caputo,M
+Massimo Ranieri,M
+Fiordaliso con Claudio Cabrini,F;M
+Raf,M
+Francesco Nuti,M
+Franco Califano,M
+Figli di Bubba,M
+Tullio De Piscopo,M
+Ron,M
+Denovo,M
+Alan Sorrenti,M
+Anna Oxa e Fausto Leali,F;M
+Jovanotti,M
+Francesco Salvi,M
+Ornella Vanoni,F
+Marisa Laurito,F
+Gino Paoli,M
+Renato Carosone,M
+Enzo Jannacci,M
+Gigi Sabani,M
+Pooh,M
+Amedeo Minghi e Mietta,M;F
+Marcella e Gianni Bella,F;M
+Caterina Caselli,F
+Paola Turci,F
+Grazia Di Michele,F
+Eugenio Bennato e Tony Esposito,M;M
+Riccardo Cocciante,M
+Renato Zero,M
+Marco Masini,M
+Umberto Tozzi,M
+Pierangelo Bertoli e Tazenda,M;M
+Mietta,F
+Jo Squillo e Sabrina Salerno,F;F
+Ladri di Biciclette,M
+Mariella Nava,F
+Paolo Vallesi,M
+Pierangelo Bertoli,M
+Franco Fasano e Flavia Fortunato,M;F
+Tazenda,M
+Peppino di Capri e Pietra Montecorvino,M;F
+Lina Sastri,F
+Paolo Mengoli,M
+Enzo Ghinazzi,M
+Nuova Compagnia di Canto Popolare,M
+Giorgio Faletti e Orietta Berti,M;F
+Formula 3,M
+Cristiano De Andrè,M
+Rossana Casale e Grazia Di Michele,F;F
+Mietta e Ragazzi di Via Meda,F;M
+Biagio Antonacci,M
+Francesca Alotta,F
+Andrea Mingardi,M
+Roberto Murolo,M
+Loredana Bertè e Mia Martini,F;F
+Jo Squillo,F
+Ladri di Biciclette e Tony Esposito,M;M
+Maurizio Vandelli, Dik Dik e Camaleonti,M;M;M
+Alessandro Canino,M
+Aleandro Baldi,M
+Giorgio Faletti,M
+Laura Pausini,F
+Gerardina Trovato,F
+Enzo Jannacci e Paolo Rossi,M;M
+Alessandro Bono,M
+Claudia Mori,F
+Carlo Marrale,M
+Squadra Italia,M
+Giorgia,F
+Gianni Morandi e Barbara Cola,M;F
+Ivana Spagna,F
+Andrea Bocelli,M
+Fiorello,M
+Danilo Amerio,M
+Lighea,F
+883,M
+Antonella Arancio,F
+Lorella Cuccarini,F
+Trio Melody,M
+Sabina Guzzanti e La Riserva Indiana,F;M
+Francesca Schiavo,F
+Valeria Visconti,F
+Giò Di Tonno,M
+Ron (con Tosca non accreditata),M;F
+Elio e le Storie Tese,M
+Neri per Caso,M
+Massimo Di Cataldo,M
+Aleandro Baldi e Marco Guerzoni,M;M
+Federico Salvatore,M
+Rossella Marcone,F
+Raffaella Cavalli,F
+Gigi Finizio,M
+Umberto Bindi e New Trolls,M;M
+Dhamm,M
+Mara,F
+Fedele Boccassini,M
+Jalisse,M
+Syria,F
+Silvia Salemi,F
+O.R.O.,M
+Nek,M
+Tosca,F
+Francesco Baccini,M
+Dirotta su Cuba,M
+Marina Rei,F
+Cattivi Pensieri,M
+Pitura Freska,M
+Ragazzi Italiani,M
+New Trolls e Greta,M;F
+Alessandro Mara,M
+Camilla,F
+Carmen Consoli,F
+Alessandro Errico,M
+Leandro Barsotti,M
+Maurizio Lauzi,M
+Olivia,F
+Adriana Ruocco,F
+Petra Magoni,F
+Annalisa Minetti,F
+Antonella Ruggiero,F
+Lisa,F
+Mango e Zenîma,M;F
+Luca Sepe,M
+Niccolò Fabi,M
+Alex Baroni,M
+Spagna,F
+Piccola Orchestra Avion Travel,M
+Paola & Chiara,F;F
+Enzo Gragnaniello con Ornella Vanoni,M;F
+Daniele Silvestri,M
+Gatto Panceri,M
+Gianluca Grignani,M
+Irene Grandi,F
+Max Gazzè,M
+Samuele Bersani,M
+Gigi D'Alessio,M
+Subsonica,M
+Mariella Nava e Amedeo Minghi,F;M
+Elisa,F
+Jenny B,F
+Alex Britti,M
+Fabio Concato,M
+Sottotono,M
+Quintorigo,M
+Bluvertigo,M
+Alexia,F
+Fausto Leali e Luisa Corna,M;F
+Filippa Giordano,F
+Francesco Renga,M
+Gazosa,F
+Alessandro Safina,M
+Lollipop,F
+Timoria,M
+Sergio Cammariere,M
+Enrico Ruggeri e Andrea Mirò,M;F
+Giuni Russo,F
+Cristiano De André,M
+Eiffel 65,M
+Bobby Solo e Little Tony,M;M
+Anna Tatangelo e Federico Stragà,F;M
+Negrita,M
+Mario Rosini,M
+Linda,F
+Paolo Meneguzzi,M
+Bungaro,M
+Massimo Modugno e Gipsy Kings,M;M
+Stefano Picchi,M
+Morris Albert e Mietta,M;F
+Neffa,M
+Mario Venuti,M
+DJ Francesco,M
+Simone Tomassini,M
+DB Boulevard e Bill Wyman,M;M
+Andrea Mingardi e The Blues Brothers Band,M;M
+Omar Pedrini,M
+Daniele Groff,M
+Adriano Pappalardo,M
+Veruska,F
+Andrè,M
+Danny Losito e Las Ketchup,M;F
+Pacifico,M
+Piotta,M
+Toto Cutugno con Annalisa Minetti,M;F
+Nicky Nicolai e Stefano Di Battista Jazz Quartet,F;M
+Laura Bono,F
+La Differenza,F
+Veronica Ventavoli,F
+Le Vibrazioni,M
+Anna Tatangelo,F
+DJ Francesco Band,M
+Nicola Arigliano,M
+Giovanna D'Angi,F
+Max De Angelis,M
+Equ,M
+Velvet,F
+Christian Lo Zito,M
+Sabrina Guida,F
+Modà,M
+Concido,M
+Enrico Boccadoro,M
+Negramaro,M
+Povia,M
+Nomadi,M
+Riccardo Maffoni,M
+Simone Cristicchi,M
+Dolcenera,F
+Zero Assoluto,M
+Simona Bencini,F
+Nicky Nicolai,F
+I Ragazzi di Scampia con Gigi Finizio,M;M
+Sugarfree,M
+Monia Russo,F
+L'Aura,F
+Helena Hellwig,F
+Tiziano Orecchio,M
+Noa, Carlo Fava & Solis String Quartet,F;M;M
+Luca Dirisio,M
+Andrea Ori,M
+Ameba 4,M
+Ivan Segreto,M
+Mario Venuti e Arancia Sonora,M;M
+Antonello,M
+Deasonika,M
+Virginio,M
+Piero Mazzocchetti,M
+Francesco con Roby Facchinetti,M;M
+Amalia Gré,F
+Paolo Rossi,M
+Johnny Dorelli,M
+Leda Battisti,F
+Giò Di Tonno e Lola Ponce,M;F
+Fabrizio Moro,M
+Finley,M
+Eugenio Bennato,M
+Frankie hi-nrg mc,M
+Tricarico,M
+Tiromancino,M
+Marco Carta,M
+Sal Da Vinci,M
+Alexia feat. Mario Lavezzi,F;M
+Pupo, Paolo Belli e Youssou N'Dour,M;M;M
+Gemelli DiVersi,M
+Nicky Nicolai e Stefano Di Battista,F;M
+Afterhours,M
+Valerio Scanu,M
+Pupo ed Emanuele Filiberto con Luca Canonici,M;M;M
+Marco Mengoni,M
+Noemi,F
+Malika Ayane,F
+Irene Fornaciari feat. Nomadi,F;M
+Arisa,F
+Nino D'Angelo con Maria Nazionale,M;F
+Sonohra,M
+Modà con Emma,M;F
+Davide Van De Sfroos,M
+Luca Madonia con Franco Battiato,M;M
+La Crus,M
+Nathalie,F
+Luca Barbarossa e Raquel del Rosario,M;F
+Giusy Ferreri,F
+Max Pezzali,M
+Emma,F
+Gigi D'Alessio e Loredana Bertè,M;F
+Pierdavide Carone e Lucio Dalla,M;M
+Nina Zilli,F
+Chiara Civello,F
+Irene Fornaciari,F
+Marlene Kuntz,M
+Raphael Gualazzi,M
+Chiara,F
+Annalisa,F
+Maria Nazionale,F
+Marta sui Tubi,F
+Simona Molinari con Peter Cincotti,F;M
+Almamegretta,M
+Raphael Gualazzi & The Bloody Beetroots,M;M
+Renzo Rubino,M
+Perturbazione,M
+Francesco Sarcina,M
+Giuliano Palma,M
+Riccardo Sinigallia,M
+Il Volo,M
+Dear Jack,M
+Lorenzo Fragola,M
+Nesli,M
+Bianca Atzei,F
+Moreno,M
+Grazia Di Michele e Mauro Coruzzi,F;M
+Biggio e Mandelli,M;M
+Lara Fabian,F
+Francesca Michielin,F
+Giovanni Caccamo e Deborah Iurato,M;F
+Clementino,M
+Rocco Hunt,M
+Alessio Bernabei,M
+Francesco Gabbani,M
+Ermal Meta,M
+Michele Bravi,M
+Sergio Sylvestre,M
+Elodie,F
+Samuel,M
+Lodovica Comello,F
+Nesli & Alice Paba,M;F
+Raige e Giulia Luzi,M;F
+Ermal Meta e Fabrizio Moro,M;M
+Lo Stato Sociale,M
+Ornella Vanoni con Bungaro e Pacifico,F;M;M
+Diodato e Roy Paci,M;M
+The Kolors,M
+Giovanni Caccamo,M
+Enzo Avitabile con Peppe Servillo,M;M
+Red Canzian,M
+Roby Facchinetti e Riccardo Fogli,M;M
+Mario Biondi,M
+Mahmood,M
+Ultimo,M
+Irama,M
+Achille Lauro,M
+Enrico Nigiotti,M
+Boomdabash,M
+Ghemon,M
+Ex-Otago,M
+Motta,M
+The Zen Circus,M
+Federica Carta e Shade,F;M
+Patty Pravo con Briga,F;M
+Einar,M
+Nino D'Angelo e Livio Cori,M;M
+Diodato,M
+Pinguini Tattici Nucleari,M
+Piero Pelù,M
+Rancore,M
+Levante,F
+Anastasio,M
+Alberto Urso,M
+Paolo Jannacci,M
+Giordana Angi,F
+Elettra Lamborghini,F
+Junior Cally,M
+Riki,M
+Bugo e Morgan,M;M
+Måneskin,M
+Francesca Michielin e Fedez,F;M
+Colapesce Dimartino,M
+Irama[20],M
+Willie Peyote,M
+Madame,F
+La Rappresentante di Lista,F
+Extraliscio feat. Davide Toffolo,M;M
+Fulminacci,M
+Fasma,M
+Gaia,F
+Coma_Cose,M
+Gio Evan,M
+Bugo,M
+Aiello,M
+Random,M
+Mahmood e Blanco,M;M
+Sangiovanni,M
+Dargen D'Amico,M
+Matteo Romano,M
+AKA 7even,M
+Achille Lauro con Harlem Gospel Choir,M;M
+Ditonellapiaga e Rettore,F;F
+Rkomi,M
+Giovanni Truppi,M
+Highsnob e Hu,M;M
+Yuman,M
+Ana Mena,F
+Tananai,M
+Lazza,M
+Mr. Rain,M
+Rosa Chemical,M
+Ariete,F
+LDA,M
+Articolo 31,M
+Leo Gassmann,M
+Mara Sattei,F
+Colla Zio,M
+Cugini di Campagna,M
+Gianmaria,M
+Olly,M
+Will,M
+Shari,F
+Sethu,M

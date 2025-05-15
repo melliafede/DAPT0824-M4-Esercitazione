@@ -2,9 +2,6 @@ import re
 import pandas as pd
 from collections import Counter
 
-# from sentence_transformers import SentenceTransformer, util
-
-
 pd.set_option("display.max_columns", None)
 pd.set_option("display.max_rows", None)
 pd.set_option("display.width", None)
@@ -15,6 +12,23 @@ df = df.set_index("Unnamed: 0")
 df.index.name = None
 
 # print(df)
+# exit()
+
+file_path = "interpreti_sesso.txt"
+interpreti_sesso_df = pd.read_csv(filepath_or_buffer=file_path, sep=";")
+# print(interpreti_sesso_df)
+# exit()
+
+""" Aggiunta colonna sesso al dataframe """
+df = pd.merge(df, interpreti_sesso_df, on="Interprete", how="left")
+# print(df.loc[:, ["Interprete", "Sesso"]])
+# exit()
+
+
+# interpreti = list(df["Interprete"].unique())
+# interpreti_df = pd.DataFrame(interpreti, columns=["Interprete"])
+# print(interpreti_df)
+# interpreti_df.to_csv("interpreti_unique.csv", index=False, encoding="utf-8")
 # exit()
 
 ''' Generazione tokens '''
@@ -117,13 +131,11 @@ for index, row in df.iterrows():
 
 df["Pos"] = pos_values
 
-print(df.loc[df["Interprete"]=="Alexia", ["anno", "Posizione", "Interprete"]])
-exit()
+# print(df.loc[df["Interprete"] == "Alexia", ["anno", "Posizione", "Interprete"]])
+# exit()
 
 """ Filtro posizioni numeriche"""
 pos_df = df[df["Pos"].apply(lambda x: isinstance(x, int))]
-# print(pos_df.loc[:, ["anno","Pos", "Interprete"]])
-# exit()
 
 """ Canzoni vincenti """
 winning_df = df.loc[df["Pos"] == 1]
@@ -163,6 +175,7 @@ print(top3_df.loc[:, ["anno", "Canzone", "Tematiche", "Pos", "FlagAmore"]])
 
 """ Conteggio numero titoli"""
 numero_titoli = df.shape[0]
+print(df)
 
 """ Scrittura files """
 pos_df.to_csv("pos_interpreti.csv", index=False, encoding="utf-8")

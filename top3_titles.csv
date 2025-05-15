@@ -1,240 +1,240 @@
-Posizione,Interprete,Canzone,anno,Autori,Tematiche,Pos,FlagAmore
-1º,Nilla Pizzi,Grazie dei fiori,1951,Gian Carlo Testoni e Mario Panzeri,"['grazie', 'fiori']",1,False
-2º,Nilla Pizzi e Achille Togliani,La luna si veste d'argento,1951,Biri,"['luna', 'veste', 'argento']",2,False
-3º,Achille Togliani,Serenata a nessuno,1951,Walter Colì,['serenata'],3,False
-1º,Nilla Pizzi,Vola Colomba,1952,B. Cherubini e C. Concina,"['vola', 'colomba']",1,False
-2º,Nilla Pizzi,Papaveri e papere,1952,"N. Rastelli, M. Panzeri e V. Mascheroni","['papaveri', 'papere']",2,False
-3º,Nilla Pizzi,Una donna prega,1952,Pinchi e V. Panzuti,"['donna', 'prega']",3,False
-1º,Carla Boni - Flo Sandon's,Viale d'autunno,1953,G. D'Anzi,"['viale', 'autunno']",1,False
-2º,Nilla Pizzi e Doppio Quintetto Vocale - Teddy Reno e Quartetto Stars,Campanaro,1953,B. Cherubini e C. Concina,['campanaro'],2,False
-3º (ex aequo),Achille Togliani - Teddy Reno,Lasciami cantare una canzone,1953,M. Cozzoli e C. A. Bixio,"['lasciami', 'cantare', 'canzone']",3,False
-3º (ex aequo),Gino Latilla e Doppio Quintetto Vocale - Giorgio Consolini,Vecchio scarpone,1953,"Calibi, Pinchi e C. Donida","['vecchio', 'scarpone']",3,False
-1º,Giorgio Consolini - Gino Latilla,Tutte le mamme,1954,U. Bertini e E. Falcocchio,['mamme'],1,False
-2º,Katyna Ranieri - Achille Togliani,Canzone da due soldi,1954,Pinchi e C. Donida,"['canzone', 'soldi']",2,False
-3º,Gino Latilla - Franco Ricci,...e la barca tornò sola,1954,M. Ruccione,"['barca', 'tornò', 'sola']",3,False
-1º,Claudio Villa - Tullio Pane,Buongiorno tristezza,1955,G. Fiorelli e M. Ruccione,"['buongiorno', 'tristezza']",1,False
-2º,Claudio Villa - Tullio Pane,Il torrente,1955,C. A. Liman e L. Carmi,['torrente'],2,False
-3º,"Natalino Otto e Trio Aurora - Bruno Pallesi, Nuccia Bongiovanni e Radio Boys",Canto nella valle,1955,M. Panzeri e U. Fusco,"['canto', 'valle']",3,False
-1º,Franca Raimondi,Aprite le finestre,1956,Pinchi e V. Panzuti,"['aprite', 'finestre']",1,False
-2º,Tonina Torrielli,Amami se vuoi,1956,M. Panzeri e V. Mascheroni,"['amami', 'vuoi']",2,False
-3º,Luciana Gonzales,La vita è un paradiso di bugie,1956,D. Calcagno e N. Oliviero,"['vita', 'paradiso', 'bugie']",3,False
-1º,Claudio Villa - Nunzio Gallo,Corde della mia chitarra,1957,G. Fiorelli e M. Ruccione,"['corde', 'chitarra']",1,False
-2º,Claudio Villa - Giorgio Consolini,Usignolo,1957,"G. Castellani, L. L. Martelli e C. Concina",['usignolo'],2,False
-3º,Gino Latilla - Tonina Torrielli,Scusami,1957,"Biri, W. Malgoni e M. Perrone",['scusami'],3,False
-1º,Domenico Modugno - Johnny Dorelli,Nel blu dipinto di blu,1958,D. Modugno e F. Migliacci,"['blu', 'dipinto', 'blu']",1,False
-2º,Nilla Pizzi - Tonina Torrielli,L'edera,1958,V. D'Acquisto e S. Seracini,['edera'],2,False
-3º,Gino Latilla - Nilla Pizzi,Amare un'altra,1958,R. Pazzaglia e G. Fabor,['amare'],3,False
-1º,Domenico Modugno - Johnny Dorelli,Piove (ciao ciao bambina),1959,D. Modugno e D. Verde,"['piove', 'bambina']",1,False
-2º,Arturo Testa - Gino Latilla,Io sono il vento,1959,G. C. Testoni e G. Fanciulli,['vento'],2,False
-3º,Teddy Reno - Achille Togliani,Conoscerti,1959,G. D'Anzi,['conoscerti'],3,False
-1º,Tony Dallara - Renato Rascel,Romantica,1960,D. Verde e R. Rascel,['romantica'],1,False
-2º,Domenico Modugno - Teddy Reno,Libero,1960,D. Modugno e F. Migliacci,['libero'],2,False
-3º,Wilma De Angelis - Joe Sentieri,Quando vien la sera,1960,A. Testa e C. A. Rossi,"['vien', 'sera']",3,False
-1º,Betty Curtis - Luciano Tajoli,Al di là,1961,Mogol - Donida,['là'],1,False
-2º,Adriano Celentano - Little Tony,24mila baci,1961,"P. Vivarelli, L. Fulci e A. Celentano","['24mila', 'baci']",2,False
-3º,Milva - Gino Latilla,Il mare nel cassetto,1961,Rolla - La Valle - Lattuada,"['mare', 'cassetto']",3,False
-1º,Domenico Modugno - Claudio Villa,Addio...addio...,1962,F. Migliacci e D. Modugno,"['addio', 'addio']",1,False
-2º,Sergio Bruni - Milva,Tango italiano,1962,B. Pallesi e W. Malgoni,"['tango', 'italiano']",2,False
-3º,Sergio Bruni - Ernesto Bonino,Gondolì gondolà,1962,Nisa e R. Carosone,"['gondolì', 'gondolà']",3,False
-1º,Tony Renis - Emilio Pericoli,Uno per tutte,1963,"Mogol, A. Testa e T. Renis",[],1,False
-2º,Claudio Villa - Eugenia Foligatti,Amor mon amour my love,1963,"W. Malgoni, Pinchi e B. Pallesi","['amor', 'mon', 'amour', 'my', 'love']",2,False
-3º,Pino Donaggio - Cocky Mazzetti,Giovane giovane,1963,P. Donaggio e A. Testa,"['giovane', 'giovane']",3,False
-1º,Gigliola Cinquetti - Patricia Carli,Non ho l'età (Per amarti),1964,"M. Panzeri, Nisa, G. Colonnello","['età', 'amarti']",1,False
-2º (pari merito),Domenico Modugno - Frankie Laine,Che me ne importa a me,1964,D. Modugno,['importa'],2,False
-2º (pari merito),Tony Dallara - Ben E. King,Come potrei dimenticarti,1964,V. Pallavicini e E. Leoni,"['potrei', 'dimenticarti']",2,False
-2º (pari merito),Gino Paoli - Antonio Prieto,Ieri ho incontrato mia madre,1964,G. Paoli,"['ieri', 'incontrato', 'madre']",2,False
-2º (pari merito),Fabrizio Ferretti - Gil Fields e The Fraternity Brothers,La prima che incontro,1964,V. Pallavicini e G. Kramer,"['prima', 'incontro']",2,False
-2º (pari merito),Pino Donaggio - Frankie Avalon,Motivo d'amore,1964,P. Donaggio,"['motivo', 'amore']",2,True
-2º (pari merito),Roby Ferrante - Paul Anka,Ogni Volta,1964,C. Rossi e R. Ferrante,"['ogni', 'volta']",2,False
-2º (pari merito),Little Tony - Gene Pitney,Quando vedrai la mia ragazza,1964,C. Rossi e E. Ciacci,"['vedrai', 'ragazza']",2,False
-2º (pari merito),Bruno Filippini - Gil Fields e The Fraternity Brothers,Sabato sera,1964,B. Pallesi e W. Malgoni,"['sabato', 'sera']",2,False
-2º (pari merito),Remo Germani - Nino Tempo e April Stevens,Stasera no no no,1964,V. Pallavicini e E. Roncarati,['stasera'],2,False
-2º (pari merito),Robertino - Bobby Rydell,Un bacio piccolissimo,1964,G. Ornati e G. Mescoli,"['bacio', 'piccolissimo']",2,False
-2º (pari merito),Bobby Solo - Frankie Laine,Una lacrima sul viso,1964,Mogol e B. Solo,"['lacrima', 'viso']",2,False
-1º,Bobby Solo - The New Christy Minstrels,"Se piangi, se ridi",1965,"Mogol, G. Marchetti, R. Satti","['piangi', 'ridi']",1,False
-2º (pari merito),Ornella Vanoni - Udo Jürgens,Abbracciami forte,1965,Mogol e C. Donida,"['abbracciami', 'forte']",2,False
-2º (pari merito),Nicola Di Bari - Gene Pitney,Amici miei,1965,V. Pallavicini e G. Colonnello,['amici'],2,False
-2º (pari merito),Fred Bongusto - Kiki Dee,Aspetta domani,1965,V. Pallavicini e F. Bongusto,"['aspetta', 'domani']",2,False
-2º (pari merito),Gigliola Cinquetti - Connie Francis,Ho bisogno di vederti,1965,P. Ciampi e R. Ciampi,"['bisogno', 'vederti']",2,False
-2º (pari merito),Betty Curtis - Petula Clark,Invece no,1965,V. Pallavicini e E. Leoni,['invece'],2,False
-2º (pari merito),Pino Donaggio - Jody Miller,Io che non vivo (senza te),1965,V. Pallavicini e P. Donaggio,['vivo'],2,False
-2º (pari merito),Bruno Filippini - Yukari Ito,L'amore ha i tuoi occhi,1965,V. Pallavicini e G. Kramer,"['amore', 'ha', 'occhi']",2,True
-2º (pari merito),Wilma Goich - The New Christy Minstrels,Le colline sono in fiore,1965,"Mogol, Calibi, C. Donida e R. Angiolini","['colline', 'fiore']",2,False
-2º (pari merito),Remo Germani e Le Amiche - Audrey,Prima o poi,1965,"V. Pallavicini, A. Amurri e G. Ferrari","['prima', 'poi']",2,False
-2º (pari merito),Vittorio Inzaina - Les Surfs,Si vedrà,1965,A. Gentile e C. Lentini,['vedrà'],2,False
-2º (pari merito),Milva - Bernd Spier,Vieni con noi,1965,F. Maresca e M. Pagano,['vieni'],2,False
-1º,Domenico Modugno - Gigliola Cinquetti,"Dio, come ti amo",1966,D. Modugno,"['dio', 'amo']",1,False
-2º,Caterina Caselli - Gene Pitney,Nessuno mi può giudicare,1966,"D. Pace, M. Panzeri, L. Beretta e M. Del Prete","['può', 'giudicare']",2,False
-3º,Wilma Goich - Les Surfs,In un fiore,1966,C. Donida e Mogol,['fiore'],3,False
-1º,Claudio Villa - Iva Zanicchi,Non pensare a me,1967,A. Testa e E. Sciorilli,['pensare'],1,False
-2º,Annarita Spinaci - Les Surfs,Quando dico che ti amo,1967,A. Testa e T. Renis,"['dico', 'amo']",2,False
-3º,I Giganti - The Bachelors,Proposta,1967,Albula e G. B. Martelli,['proposta'],3,False
-1º,Sergio Endrigo - Roberto Carlos,Canzone per te,1968,"S. Endrigo, S. Bardotti",['canzone'],1,False
-2º,Ornella Vanoni - Marisa Sannia,Casa bianca,1968,"A. Caponi, E. La Valle","['casa', 'bianca']",2,False
-3º,Adriano Celentano - Milva,Canzone,1968,"A. Caponi, D. Mariano",['canzone'],3,False
-1º,Bobby Solo - Iva Zanicchi,Zingara,1969,L. Albertelli e E. Riccardi,['zingara'],1,False
-2º,Sergio Endrigo - Mary Hopkin,Lontano dagli occhi,1969,"S. Bardotti, S. Endrigo e L. Bacalov","['lontano', 'occhi']",2,False
-3º,Don Backy - Milva,Un sorriso,1969,A. Caponi e D. Mariano,['sorriso'],3,False
-1º,Adriano Celentano - Claudia Mori,Chi non lavora non fa l'amore,1970,"L. Beretta, M. Del Prete, A. Celentano, N. de Luca","['lavora', 'fa', 'amore']",1,True
-2º,Nicola Di Bari - Ricchi e Poveri,La prima cosa bella,1970,"Mogol, M. Scommegna, G. F. Reverberi",['prima'],2,False
-3º,Sergio Endrigo - Iva Zanicchi,L'arca di Noè,1970,"S. Endrigo, L. Bacalov","['arca', 'noè']",3,False
-1º,Nada - Nicola Di Bari,Il cuore è uno zingaro,1971,F. Migliacci e C. Mattone,"['cuore', 'zingaro']",1,False
-2º,Ricchi e Poveri - José Feliciano,Che sarà,1971,"F. Migliacci, C. Pes e J. Fontana",['sarà'],2,False
-3º,Lucio Dalla - Equipe 84,4 marzo 1943,1971,L. Dalla e P. Pallottino,"['4', 'marzo', '1943']",3,False
-1º,Nicola Di Bari,I giorni dell'arcobaleno,1972,"M. Scommegna, D. Masini, P. Pintucci","['giorni', 'dell', 'arcobaleno']",1,False
-2º,Peppino Gagliardi,Come le viole,1972,P. Gagliardi e G. Amendola,['viole'],2,False
-3º,Nada,Il re di denari,1972,C. Mattone e F. Migliacci,"['re', 'denari']",3,False
-1º,Peppino Di Capri,Un grande amore e niente più,1973,"F. Califano, G. Wright, G. Faiella, C. Mattone",['amore'],1,True
-2º,Peppino Gagliardi,Come un ragazzino,1973,"G. Amendola, P. Gagliardi",['ragazzino'],2,False
-3º,Milva,Da troppo tempo,1973,"L. Albertelli, G. Colonnello","['troppo', 'tempo']",3,False
-1º,Iva Zanicchi,Ciao cara come stai?,1974,"C. Malgioglio, C. Daiano, Dinaro e I. Ianne","['cara', 'stai']",1,False
-2º,Domenico Modugno,Questa è la mia vita,1974,"L. Beretta, D. Modugno e E. Suligoj",['vita'],2,False
-3º,Orietta Berti,Occhi rossi,1974,"D. Pace, C. Conti, L. Pilat e M. Panzeri","['occhi', 'rossi']",3,False
-1,Gilda,Ragazza del sud,1975,R. Scalabrino,"['ragazza', 'sud']",1,False
-2,Angela Luce,Ipocrisia,1975,P. Giordano e E. Alfieri,['ipocrisia'],2,False
-2,Rosanna Fratello,Va' speranza va',1975,G. Taddei e F. Graniero,"['va', 'speranza', 'va']",2,False
-1º,Peppino Di Capri,Non lo faccio più,1976,"Depsa, S. Iodice e F. Berlincioni",['faccio'],1,False
-2º,Wess e Dori Ghezzi,"Come stai, con chi sei",1976,"C. Minellono, F. Piccarreda e U. Balsamo",['stai'],2,False
-3º (ex aequo),Sandro Giacobbe,Gli occhi di tua madre,1976,"S. Giacobbe, D. Pace e O. Avogadro","['occhi', 'madre']",3,False
-3º (ex aequo),Albatros,Volo AZ 504,1976,V. Pallavicini e T. Cutugno,"['volo', 'az', '504']",3,False
-1º,Homo Sapiens,Bella da morire,1977,R. Pareti e A. Salerno,['morire'],1,False
-2º,Collage,Tu mi rubi l'anima,1977,G. Padovan e A. De Sanctis,"['rubi', 'anima']",2,False
-3º,I Santo California,Monica,1977,"P. Pinna, G. Simonelli e E. Palumbo",['monica'],3,False
-1º,Matia Bazar,...e dirsi ciao,1978,"G. Golzi, A. Stellita, P. Cassano, C. Marrale e A. Ruggiero",['dirsi'],1,False
-2º,Anna Oxa,Un'emozione da poco,1978,I. Fossati e G. Guglielminetti,"['emozione', 'poco']",2,False
-3º,Rino Gaetano,Gianna,1978,R. Gaetano,['gianna'],3,False
-1º,Mino Vergnaghi,Amare,1979,P. Finà e S. Ortone,['amare'],1,False
-2º,Enzo Carella,Barbara,1979,E. Carella e P. Panella,['barbara'],2,False
-3º,I Camaleonti,Quell'attimo in più,1979,"M. Lavezzi, O. Avogadro e D. Pace","['quell', 'attimo']",3,False
-1º,Toto Cutugno,Solo noi,1980,S. Cutugno,[],1,False
-2º,Enzo Malepasso,Ti voglio bene,1980,Depsa e E. Malepasso,['bene'],2,False
-3º,Pupo,Su di noi,1980,"P. Barabani, D. Milani e E. Ghinazzi",[],3,False
-1º,Alice,Per Elisa,1981,"C. Bissi, F. Battiato e G. Pio",['elisa'],1,False
-2º,Loretta Goggi,Maledetta primavera,1981,P. A. Cassella e T. Savio,"['maledetta', 'primavera']",2,False
-3º,Dario Baldan Bembo,Tu cosa fai stasera?,1981,P. A. Cassella e D. Baldan Bembo,"['fai', 'stasera']",3,False
-1º,Riccardo Fogli,Storie di tutti i giorni,1982,"R. Fogli, G. Morra e M. Fabrizio","['storie', 'giorni']",1,False
-2º,Al Bano e Romina Power,Felicità,1982,"C. Minellono, G. De Stefani e D. Farina",['felicità'],2,False
-3º,Drupi,Soli,1982,"G. Anelli, G. Belleno e V. De Scalzi",['soli'],3,False
-1º,Tiziana Rivale,Sarà quel che sarà,1983,R. Ferri e M. Fabrizio,"['sarà', 'quel', 'sarà']",1,False
-2º,Donatella Milani,Volevo dirti,1983,"D. Milani, D. Pace e A. Fornaciari","['volevo', 'dirti']",2,False
-3º,Dori Ghezzi,Margherita non lo sa,1983,O. Prudente e O. Avogadro,"['margherita', 'sa']",3,False
-1º,Al Bano e Romina Power,Ci sarà,1984,C. Minellono e D. Farina,['sarà'],1,False
-2º,Toto Cutugno,Serenata,1984,S. Cutugno e V. Pallavicini,['serenata'],2,False
-3º,Christian,Cara,1984,M. Balducci,['cara'],3,False
-1º,Ricchi e Poveri,Se m'innamoro,1985,D. Farina e C. Minellono,"['m', 'innamoro']",1,False
-2º,Luis Miguel,"Noi, ragazzi di oggi",1985,S. Cutugno e C. Minellono,"['ragazzi', 'oggi']",2,False
-3º,Gigliola Cinquetti,Chiamalo amore,1985,D. Farina e P. A. Cassella,"['chiamalo', 'amore']",3,True
-1º,Eros Ramazzotti,Adesso tu,1986,"E. Ramazzotti, P. Cassano e A. Cogliati",['adesso'],1,False
-2º,Renzo Arbore,Il clarinetto,1986,C. Mattone e R. Arbore,['clarinetto'],2,False
-3º,Marcella,Senza un briciolo di testa,1986,"G. Bella, Mogol e G. Westley","['briciolo', 'testa']",3,False
-1º,"Gianni Morandi, Enrico Ruggeri e Umberto Tozzi",Si può dare di più,1987,"G. Bigazzi, U. Tozzi e R. Riefoli","['può', 'dare']",1,False
-2º,Toto Cutugno,Figli,1987,S. Cutugno,['figli'],2,False
-3º,Al Bano e Romina Power,Nostalgia canaglia,1987,"V. Pallavicini, W. Molco, A. Carrisi, R. Power e V. Mercurio","['nostalgia', 'canaglia']",3,False
-1º,Massimo Ranieri,Perdere l'amore,1988,M. Marrocchi e G. Artegiani,"['perdere', 'amore']",1,True
-2º,Toto Cutugno,Emozioni,1988,T. Cutugno,['emozioni'],2,False
-3º,Luca Barbarossa,L'amore rubato,1988,L. Barbarossa,"['amore', 'rubato']",3,True
-1º,Anna Oxa e Fausto Leali,Ti lascerò,1989,"G. Fasano, F. Leali, F. Ciani, F. Berlincioni e S. Bardotti",['lascerò'],1,False
-2º,Toto Cutugno,Le mamme,1989,T. Cutugno e S. Borgia,['mamme'],2,False
-3º,Al Bano e Romina Power,Cara terra mia,1989,"A. Carrisi, R. Power e V. Pallavicini","['cara', 'terra']",3,False
-1º,Pooh,Uomini soli,1990,V. Negrini e C. Facchinetti,"['uomini', 'soli']",1,False
-2º,Toto Cutugno,Gli amori,1990,"F. Berlincioni, S. Cutugno e S. De Pasquale",['amori'],2,False
-3º,Amedeo Minghi e Mietta,Vattene amore,1990,A. Minghi,"['vattene', 'amore']",3,True
-1º,Riccardo Cocciante,Se stiamo insieme,1991,R. Cocciante e Mogol,"['stiamo', 'insieme']",1,False
-2º,Renato Zero,Spalle al muro,1991,M. Nava,"['spalle', 'muro']",2,False
-3º,Marco Masini,Perché lo fai,1991,"G. Bigazzi, M. Manzani e M. Masini","['perché', 'fai']",3,False
-1º,Luca Barbarossa,Portami a ballare,1992,L. Barbarossa,"['portami', 'ballare']",1,False
-2º,Mia Martini,Gli uomini non cambiano,1992,"G. Dati, M. Falagiani e G. Bigazzi","['uomini', 'cambiano']",2,False
-3º,Paolo Vallesi,La forza della vita,1992,G. Dati e P. Vallesi,"['forza', 'vita']",3,False
-1º,Enrico Ruggeri,Mistero,1993,E. Ruggeri,['mistero'],1,False
-2º,Cristiano De Andrè,Dietro la porta,1993,D. Fossati e C. De Andrè,"['dietro', 'porta']",2,False
-3º,Rossana Casale e Grazia Di Michele,Gli amori diversi,1993,"R. Casale, G. Restelli e G. Di Michele","['amori', 'diversi']",3,False
-1º,Aleandro Baldi,Passerà,1994,"A. Civai, G. Bigazzi e M. Falagiani",['passerà'],1,False
-2º,Giorgio Faletti,Signor tenente,1994,G. Faletti,"['signor', 'tenente']",2,False
-3º,Laura Pausini,Strani amori,1994,"A. Valsiglio, R. Buti, Cheope, M. Marati e F. Tanini","['strani', 'amori']",3,False
-1º,Giorgia,Come saprei,1995,"G. Todrani, E. Ramazzotti, V. Tosetto e A. Cogliati",['saprei'],1,False
-2º,Gianni Morandi e Barbara Cola,In amore,1995,Duchesca e B. Zambrini,['amore'],2,True
-3º,Ivana Spagna,Gente come noi,1995,"I. Spagna, G. Spagna, F. Zanotti, A. Valsiglio e M. Marati",['gente'],3,False
-1º,Ron (con Tosca non accreditata),Vorrei incontrarti fra cent'anni,1996,R. Cellamare,"['vorrei', 'incontrarti', 'cent', 'anni']",1,False
-2º,Elio e le Storie Tese,La terra dei cachi,1996,"D. Civaschi, S. Belisari, S. Conforti e N. Fasani","['terra', 'cachi']",2,False
-3º,Giorgia,Strano il mio destino,1996,G. Todrani e M. Fabrizio,"['strano', 'destino']",3,False
-1º,Jalisse,Fiumi di parole,1997,"C. Di Domenico, A. Drusian e F. Ricci","['fiumi', 'parole']",1,False
-2º,Anna Oxa,Storie,1997,"Depsa, M. Marati, S. Monetti, A. Valsiglio e F. Zanotti",['storie'],2,False
-3º,Syria,Sei tu,1997,C. Mattone e A. Salerno,[],3,False
-1º,Annalisa Minetti,Senza te o con te,1998,M. Luca e P. Palma,[],1,False
-2º,Antonella Ruggiero,Amore lontanissimo,1998,A. Ruggiero e R. Colombo,"['amore', 'lontanissimo']",2,True
-3º,Lisa,Sempre,1998,G. Morra e M. Fabrizio,['sempre'],3,False
-1º,Anna Oxa,Senza pietà,1999,C. Guidetti e A. Salerno,['pietà'],1,False
-2º,Antonella Ruggiero,Non ti dimentico (Se non ci fossero le nuvole),1999,"R. Colombo, A. Ruggiero e Kaballà","['dimentico', 'fossero', 'nuvole']",2,False
-3º,Mariella Nava,Così è la vita,1999,M. Nava,['vita'],3,False
-1º,Piccola Orchestra Avion Travel,Sentimento,2000,"D. Ciaramella, G. D'Argenzio, F. Mesolella, F. Spinetti, M. Tronco e G. Servillo",['sentimento'],1,False
-2º,Irene Grandi,La tua ragazza sempre,2000,V. Rossi e G. Curreri,"['ragazza', 'sempre']",2,False
-3º,Gianni Morandi,Innamorato,2000,"E. Ramazzotti, C. Guidetti e A. Cogliati",['innamorato'],3,False
-1º,Elisa,Luce (tramonti a nord est),2001,E. Toffoli e A. Fornaciari,"['luce', 'tramonti', 'nord', 'est']",1,False
-2º,Giorgia,Di sole e d'azzurro,2001,"A. Fornaciari, M. Saggese e M. Vergnaghi","['sole', 'azzurro']",2,False
-3º,Matia Bazar,Questa nostra grande storia d'amore,2001,G. Golzi e P. Cassano,"['storia', 'amore']",3,True
-1º,Matia Bazar,Messaggio d'amore,2002,G. Golzi e P. Cassano,"['messaggio', 'amore']",1,True
-2º,Alexia,Dimmi come...,2002,A. Aquilani e M. Marcolini,['dimmi'],2,False
-3º,Gino Paoli,Un altro amore,2002,G. Paoli,['amore'],3,True
-1º,Alexia,Per dire di no,2003,A. Salerno e Alexia,['dire'],1,False
-2º,Alex Britti,7000 caffè,2003,A. Britti,"['7000', 'caffè']",2,False
-3º,Sergio Cammariere,Tutto quello che un uomo,2003,R. Kunstler e S. Cammariere,['uomo'],3,False
-1º,Marco Masini,L'uomo volante,2004,"M. Masini, G. Dati e G. Orlandi","['uomo', 'volante']",1,False
-2º,Mario Rosini,Sei la vita mia,2004,"L. Leone, L. Patruno, C. Noto, L. Rana e G. Giorgilli",['vita'],2,False
-3º,Linda,"Aria, sole, terra e mare",2004,"L. Valori, L. Bruti, M. Di Paolo, D. De Santis","['aria', 'sole', 'terra', 'mare']",3,False
-1,Francesco Renga,Angelo,2005,F. Renga e M. Zappatini,['angelo'],1,False
-2,Toto Cutugno con Annalisa Minetti,Come noi nessuno al mondo,2005,S. Cutugno,['mondo'],2,False
-3,Antonella Ruggiero,Echi d'infinito,2005,M. Venuti e Kaballà,"['echi', 'infinito']",3,False
-1,Povia,Vorrei avere il becco,2006,G. Povia,"['vorrei', 'avere', 'becco']",1,False
-2,Nomadi,Dove si va,2006,"C. Cattini, D. Sacco, M. Vecchi e G. Carletti","['dove', 'va']",2,False
-3,Anna Tatangelo,Essere una donna,2006,Mogol e G. D'Alessio,"['essere', 'donna']",3,False
-1º,Simone Cristicchi,Ti regalerò una rosa,2007,S. Cristicchi,"['regalerò', 'rosa']",1,False
-2º,Al Bano,Nel perdono,2007,"R. Zero, V. Incenzo, A. Paoletti e Y. Carrisi",['perdono'],2,False
-3º,Piero Mazzocchetti,Schiavo d'amore,2007,G. Morra e M. Fabrizio,"['schiavo', 'amore']",3,True
-1º,Giò Di Tonno e Lola Ponce,Colpo di fulmine,2008,G. Nannini,"['colpo', 'fulmine']",1,False
-2º,Anna Tatangelo,Il mio amico,2008,L. D'Alessio,['amico'],2,False
-3º,Fabrizio Moro,Eppure mi hai cambiato la vita,2008,F. Moro,"['hai', 'cambiato', 'vita']",3,False
-1º,Marco Carta,La forza mia,2009,P. Carta,['forza'],1,False
-2º,Povia,Luca era gay,2009,G. Povia,"['luca', 'era', 'gay']",2,False
-3º,Sal Da Vinci,Non riesco a farti innamorare,2009,"V. D'Agostino, L. D'Alessio e S. M. Sorrentino","['riesco', 'farti', 'innamorare']",3,False
-1º,Valerio Scanu,Per tutte le volte che...,2010,P. Carone,['volte'],1,False
-2º,Pupo ed Emanuele Filiberto con Luca Canonici,Italia amore mio,2010,E. Filiberto ed E. Ghinazzi,"['italia', 'amore']",2,True
-3º,Marco Mengoni,Credimi ancora,2010,"M. Mengoni, S. Fabiani, M. Calabrese e P. Calabrese","['credimi', 'ancora']",3,False
-1º,Roberto Vecchioni,Chiamami ancora amore,2011,R. Vecchioni,"['chiamami', 'ancora', 'amore']",1,True
-2º,Modà con Emma,Arriverà,2011,"F. Silvestre, E. Zapparoli e E. Palmosi",['arriverà'],2,False
-3º,Al Bano,Amanda è libera,2011,"F. Berlincioni, A. Carrisi e A. Paoletti","['amanda', 'libera']",3,False
-1º,Emma,Non è l'inferno,2012,"F. Silvestre, L. Sala e E. Palmosi",['inferno'],1,False
-2º,Arisa,La notte,2012,G. Anastasi,['notte'],2,False
-3º,Noemi,Sono solo parole,2012,F. Moro,['parole'],3,False
-1º,Marco Mengoni,L'essenziale,2013,"R. Casalino, M. Mengoni e F. De Benedittis",['essenziale'],1,False
-2º,Elio e le Storie Tese,La canzone mononota,2013,"S. Belisari, S. Conforti, D. L. Civaschi e N. Fasani","['canzone', 'mononota']",2,False
-3º,Modà,Se si potesse non morire,2013,F. Silvestre,"['potesse', 'morire']",3,False
-1º,Arisa,Controvento,2014,G. Anastasi,['controvento'],1,False
-2º,Raphael Gualazzi & The Bloody Beetroots,Liberi o no,2014,"R. Gualazzi, B. Rifo, L. Beccafichi",['liberi'],2,False
-3º,Renzo Rubino,Ora,2014,"R. Rubino, A. Rodini",['ora'],3,False
-1º,Il Volo,Grande amore,2015,F. Boccia e C. Esposito,['amore'],1,True
-2º,Nek,Fatti avanti amore,2015,"Nek, L. Chiaravalli, A. Bonomo e G. Fazio","['fatti', 'avanti', 'amore']",2,True
-3º,Malika Ayane,Adesso e qui (nostalgico presente),2015,"M. Ayane, Pacifico, G. Caccamo e A. Flora","['adesso', 'nostalgico', 'presente']",3,False
-1º,Stadio,Un giorno mi dirai,2016,"S. Grandi, G. Curreri e L. Chiaravalli","['giorno', 'dirai']",1,False
-2º,Francesca Michielin,Nessun grado di separazione,2016,"F. Michielin, F. Abbate, Cheope e F. Gargiulo","['nessun', 'grado', 'separazione']",2,False
-3º,Giovanni Caccamo e Deborah Iurato,Via da qui,2016,G. Sangiorgi,['via'],3,False
-1º,Francesco Gabbani,Occidentali's Karma,2017,"F. Ilacqua, F. Gabbani e L. Chiaravalli","['occidentali', 's', 'karma']",1,False
-2º,Fiorella Mannoia,Che sia benedetta,2017,Amara e S. Mineo,"['sia', 'benedetta']",2,False
-3º,Ermal Meta,Vietato morire,2017,E. Meta,"['vietato', 'morire']",3,False
-1º,Ermal Meta e Fabrizio Moro,Non mi avete fatto niente,2018,"E. Meta, F. Mobrici e A. Febo","['avete', 'fatto']",1,False
-2º,Lo Stato Sociale,Una vita in vacanza,2018,"A. Cazzola, F. Draicchio, L. Guenzi, A. Guidetti, E. Roberto e M. Romagnoli","['vita', 'vacanza']",2,False
-3º,Annalisa,Il mondo prima di te,2018,"Annalisa, D. Simonetta e A. Raina","['mondo', 'prima']",3,False
-1º,Mahmood,Soldi,2019,Mahmood,['soldi'],1,False
-2º,Ultimo,I tuoi particolari,2019,Ultimo,['particolari'],2,False
-3º,Il Volo,Musica che resta,2019,"G. Nannini, E. Munda, P. Romitelli, P. Mammaro e A. Carozza","['musica', 'resta']",3,False
-1º,Diodato,Fai rumore,2020,Diodato e E. Roberts,"['fai', 'rumore']",1,False
-2º,Francesco Gabbani,Viceversa,2020,F. Gabbani e Pacifico,['viceversa'],2,False
-3º,Pinguini Tattici Nucleari,Ringo Starr,2020,R. Zanotti,"['ringo', 'starr']",3,False
-1º,Måneskin,Zitti e buoni,2021,"D. David, T. Raggi, V. De Angelis e E. Torchio","['zitti', 'buoni']",1,False
-2º,Francesca Michielin e Fedez,Chiamami per nome,2021,"F. Michielin, Fedez, J. D'Amico, A. Mahmoud, A. Raina e D. Simonetta","['chiamami', 'nome']",2,False
-3º,Ermal Meta,Un milione di cose da dirti,2021,E. Meta e R. Cardelli,"['milione', 'cose', 'dirti']",3,False
-1º,Mahmood e Blanco,Brividi,2022,"Mahmood, Blanco e Michelangelo",['brividi'],1,False
-2º,Elisa,O forse sei tu,2022,Elisa e D. Petrella,['forse'],2,False
-3º,Gianni Morandi,Apri tutte le porte,2022,L. Jovanotti e R. Onori,"['apri', 'porte']",3,False
-1º,Marco Mengoni,Due vite,2023,"M. Mengoni, D. Petrella e D. Simonetta",['vite'],1,False
-2º,Lazza,Cenere,2023,"Lazza, D. Petrella e Dardust",['cenere'],2,False
-3º,Mr. Rain,Supereroi,2023,"Mr. Rain, F. Abbate e L. Vizzini",['supereroi'],3,False
+Posizione,Interprete,Canzone,anno,Autori,Sesso,Tematiche,Pos,FlagAmore
+1º,Nilla Pizzi,Grazie dei fiori,1951,Gian Carlo Testoni e Mario Panzeri,F,"['grazie', 'fiori']",1,False
+2º,Nilla Pizzi e Achille Togliani,La luna si veste d'argento,1951,Biri,G,"['luna', 'veste', 'argento']",2,False
+3º,Achille Togliani,Serenata a nessuno,1951,Walter Colì,M,['serenata'],3,False
+1º,Nilla Pizzi,Vola Colomba,1952,B. Cherubini e C. Concina,F,"['vola', 'colomba']",1,False
+2º,Nilla Pizzi,Papaveri e papere,1952,"N. Rastelli, M. Panzeri e V. Mascheroni",F,"['papaveri', 'papere']",2,False
+3º,Nilla Pizzi,Una donna prega,1952,Pinchi e V. Panzuti,F,"['donna', 'prega']",3,False
+1º,Carla Boni - Flo Sandon's,Viale d'autunno,1953,G. D'Anzi,G,"['viale', 'autunno']",1,False
+2º,Nilla Pizzi e Doppio Quintetto Vocale - Teddy Reno e Quartetto Stars,Campanaro,1953,B. Cherubini e C. Concina,G,['campanaro'],2,False
+3º (ex aequo),Achille Togliani - Teddy Reno,Lasciami cantare una canzone,1953,M. Cozzoli e C. A. Bixio,G,"['lasciami', 'cantare', 'canzone']",3,False
+3º (ex aequo),Gino Latilla e Doppio Quintetto Vocale - Giorgio Consolini,Vecchio scarpone,1953,"Calibi, Pinchi e C. Donida",G,"['vecchio', 'scarpone']",3,False
+1º,Giorgio Consolini - Gino Latilla,Tutte le mamme,1954,U. Bertini e E. Falcocchio,G,['mamme'],1,False
+2º,Katyna Ranieri - Achille Togliani,Canzone da due soldi,1954,Pinchi e C. Donida,G,"['canzone', 'soldi']",2,False
+3º,Gino Latilla - Franco Ricci,...e la barca tornò sola,1954,M. Ruccione,G,"['barca', 'tornò', 'sola']",3,False
+1º,Claudio Villa - Tullio Pane,Buongiorno tristezza,1955,G. Fiorelli e M. Ruccione,G,"['buongiorno', 'tristezza']",1,False
+2º,Claudio Villa - Tullio Pane,Il torrente,1955,C. A. Liman e L. Carmi,G,['torrente'],2,False
+3º,"Natalino Otto e Trio Aurora - Bruno Pallesi, Nuccia Bongiovanni e Radio Boys",Canto nella valle,1955,M. Panzeri e U. Fusco,G,"['canto', 'valle']",3,False
+1º,Franca Raimondi,Aprite le finestre,1956,Pinchi e V. Panzuti,F,"['aprite', 'finestre']",1,False
+2º,Tonina Torrielli,Amami se vuoi,1956,M. Panzeri e V. Mascheroni,F,"['amami', 'vuoi']",2,False
+3º,Luciana Gonzales,La vita è un paradiso di bugie,1956,D. Calcagno e N. Oliviero,F,"['vita', 'paradiso', 'bugie']",3,False
+1º,Claudio Villa - Nunzio Gallo,Corde della mia chitarra,1957,G. Fiorelli e M. Ruccione,G,"['corde', 'chitarra']",1,False
+2º,Claudio Villa - Giorgio Consolini,Usignolo,1957,"G. Castellani, L. L. Martelli e C. Concina",G,['usignolo'],2,False
+3º,Gino Latilla - Tonina Torrielli,Scusami,1957,"Biri, W. Malgoni e M. Perrone",G,['scusami'],3,False
+1º,Domenico Modugno - Johnny Dorelli,Nel blu dipinto di blu,1958,D. Modugno e F. Migliacci,G,"['blu', 'dipinto', 'blu']",1,False
+2º,Nilla Pizzi - Tonina Torrielli,L'edera,1958,V. D'Acquisto e S. Seracini,G,['edera'],2,False
+3º,Gino Latilla - Nilla Pizzi,Amare un'altra,1958,R. Pazzaglia e G. Fabor,G,['amare'],3,False
+1º,Domenico Modugno - Johnny Dorelli,Piove (ciao ciao bambina),1959,D. Modugno e D. Verde,G,"['piove', 'bambina']",1,False
+2º,Arturo Testa - Gino Latilla,Io sono il vento,1959,G. C. Testoni e G. Fanciulli,G,['vento'],2,False
+3º,Teddy Reno - Achille Togliani,Conoscerti,1959,G. D'Anzi,G,['conoscerti'],3,False
+1º,Tony Dallara - Renato Rascel,Romantica,1960,D. Verde e R. Rascel,G,['romantica'],1,False
+2º,Domenico Modugno - Teddy Reno,Libero,1960,D. Modugno e F. Migliacci,G,['libero'],2,False
+3º,Wilma De Angelis - Joe Sentieri,Quando vien la sera,1960,A. Testa e C. A. Rossi,G,"['vien', 'sera']",3,False
+1º,Betty Curtis - Luciano Tajoli,Al di là,1961,Mogol - Donida,G,['là'],1,False
+2º,Adriano Celentano - Little Tony,24mila baci,1961,"P. Vivarelli, L. Fulci e A. Celentano",G,"['24mila', 'baci']",2,False
+3º,Milva - Gino Latilla,Il mare nel cassetto,1961,Rolla - La Valle - Lattuada,G,"['mare', 'cassetto']",3,False
+1º,Domenico Modugno - Claudio Villa,Addio...addio...,1962,F. Migliacci e D. Modugno,G,"['addio', 'addio']",1,False
+2º,Sergio Bruni - Milva,Tango italiano,1962,B. Pallesi e W. Malgoni,G,"['tango', 'italiano']",2,False
+3º,Sergio Bruni - Ernesto Bonino,Gondolì gondolà,1962,Nisa e R. Carosone,G,"['gondolì', 'gondolà']",3,False
+1º,Tony Renis - Emilio Pericoli,Uno per tutte,1963,"Mogol, A. Testa e T. Renis",G,[],1,False
+2º,Claudio Villa - Eugenia Foligatti,Amor mon amour my love,1963,"W. Malgoni, Pinchi e B. Pallesi",G,"['amor', 'mon', 'amour', 'my', 'love']",2,False
+3º,Pino Donaggio - Cocky Mazzetti,Giovane giovane,1963,P. Donaggio e A. Testa,G,"['giovane', 'giovane']",3,False
+1º,Gigliola Cinquetti - Patricia Carli,Non ho l'età (Per amarti),1964,"M. Panzeri, Nisa, G. Colonnello",G,"['età', 'amarti']",1,False
+2º (pari merito),Domenico Modugno - Frankie Laine,Che me ne importa a me,1964,D. Modugno,G,['importa'],2,False
+2º (pari merito),Tony Dallara - Ben E. King,Come potrei dimenticarti,1964,V. Pallavicini e E. Leoni,G,"['potrei', 'dimenticarti']",2,False
+2º (pari merito),Gino Paoli - Antonio Prieto,Ieri ho incontrato mia madre,1964,G. Paoli,G,"['ieri', 'incontrato', 'madre']",2,False
+2º (pari merito),Fabrizio Ferretti - Gil Fields e The Fraternity Brothers,La prima che incontro,1964,V. Pallavicini e G. Kramer,G,"['prima', 'incontro']",2,False
+2º (pari merito),Pino Donaggio - Frankie Avalon,Motivo d'amore,1964,P. Donaggio,G,"['motivo', 'amore']",2,True
+2º (pari merito),Roby Ferrante - Paul Anka,Ogni Volta,1964,C. Rossi e R. Ferrante,G,"['ogni', 'volta']",2,False
+2º (pari merito),Little Tony - Gene Pitney,Quando vedrai la mia ragazza,1964,C. Rossi e E. Ciacci,G,"['vedrai', 'ragazza']",2,False
+2º (pari merito),Bruno Filippini - Gil Fields e The Fraternity Brothers,Sabato sera,1964,B. Pallesi e W. Malgoni,G,"['sabato', 'sera']",2,False
+2º (pari merito),Remo Germani - Nino Tempo e April Stevens,Stasera no no no,1964,V. Pallavicini e E. Roncarati,G,['stasera'],2,False
+2º (pari merito),Robertino - Bobby Rydell,Un bacio piccolissimo,1964,G. Ornati e G. Mescoli,G,"['bacio', 'piccolissimo']",2,False
+2º (pari merito),Bobby Solo - Frankie Laine,Una lacrima sul viso,1964,Mogol e B. Solo,G,"['lacrima', 'viso']",2,False
+1º,Bobby Solo - The New Christy Minstrels,"Se piangi, se ridi",1965,"Mogol, G. Marchetti, R. Satti",G,"['piangi', 'ridi']",1,False
+2º (pari merito),Ornella Vanoni - Udo Jürgens,Abbracciami forte,1965,Mogol e C. Donida,G,"['abbracciami', 'forte']",2,False
+2º (pari merito),Nicola Di Bari - Gene Pitney,Amici miei,1965,V. Pallavicini e G. Colonnello,G,['amici'],2,False
+2º (pari merito),Fred Bongusto - Kiki Dee,Aspetta domani,1965,V. Pallavicini e F. Bongusto,G,"['aspetta', 'domani']",2,False
+2º (pari merito),Gigliola Cinquetti - Connie Francis,Ho bisogno di vederti,1965,P. Ciampi e R. Ciampi,G,"['bisogno', 'vederti']",2,False
+2º (pari merito),Betty Curtis - Petula Clark,Invece no,1965,V. Pallavicini e E. Leoni,G,['invece'],2,False
+2º (pari merito),Pino Donaggio - Jody Miller,Io che non vivo (senza te),1965,V. Pallavicini e P. Donaggio,G,['vivo'],2,False
+2º (pari merito),Bruno Filippini - Yukari Ito,L'amore ha i tuoi occhi,1965,V. Pallavicini e G. Kramer,G,"['amore', 'ha', 'occhi']",2,True
+2º (pari merito),Wilma Goich - The New Christy Minstrels,Le colline sono in fiore,1965,"Mogol, Calibi, C. Donida e R. Angiolini",G,"['colline', 'fiore']",2,False
+2º (pari merito),Remo Germani e Le Amiche - Audrey,Prima o poi,1965,"V. Pallavicini, A. Amurri e G. Ferrari",G,"['prima', 'poi']",2,False
+2º (pari merito),Vittorio Inzaina - Les Surfs,Si vedrà,1965,A. Gentile e C. Lentini,G,['vedrà'],2,False
+2º (pari merito),Milva - Bernd Spier,Vieni con noi,1965,F. Maresca e M. Pagano,G,['vieni'],2,False
+1º,Domenico Modugno - Gigliola Cinquetti,"Dio, come ti amo",1966,D. Modugno,G,"['dio', 'amo']",1,False
+2º,Caterina Caselli - Gene Pitney,Nessuno mi può giudicare,1966,"D. Pace, M. Panzeri, L. Beretta e M. Del Prete",G,"['può', 'giudicare']",2,False
+3º,Wilma Goich - Les Surfs,In un fiore,1966,C. Donida e Mogol,G,['fiore'],3,False
+1º,Claudio Villa - Iva Zanicchi,Non pensare a me,1967,A. Testa e E. Sciorilli,G,['pensare'],1,False
+2º,Annarita Spinaci - Les Surfs,Quando dico che ti amo,1967,A. Testa e T. Renis,G,"['dico', 'amo']",2,False
+3º,I Giganti - The Bachelors,Proposta,1967,Albula e G. B. Martelli,G,['proposta'],3,False
+1º,Sergio Endrigo - Roberto Carlos,Canzone per te,1968,"S. Endrigo, S. Bardotti",G,['canzone'],1,False
+2º,Ornella Vanoni - Marisa Sannia,Casa bianca,1968,"A. Caponi, E. La Valle",G,"['casa', 'bianca']",2,False
+3º,Adriano Celentano - Milva,Canzone,1968,"A. Caponi, D. Mariano",G,['canzone'],3,False
+1º,Bobby Solo - Iva Zanicchi,Zingara,1969,L. Albertelli e E. Riccardi,G,['zingara'],1,False
+2º,Sergio Endrigo - Mary Hopkin,Lontano dagli occhi,1969,"S. Bardotti, S. Endrigo e L. Bacalov",G,"['lontano', 'occhi']",2,False
+3º,Don Backy - Milva,Un sorriso,1969,A. Caponi e D. Mariano,G,['sorriso'],3,False
+1º,Adriano Celentano - Claudia Mori,Chi non lavora non fa l'amore,1970,"L. Beretta, M. Del Prete, A. Celentano, N. de Luca",G,"['lavora', 'fa', 'amore']",1,True
+2º,Nicola Di Bari - Ricchi e Poveri,La prima cosa bella,1970,"Mogol, M. Scommegna, G. F. Reverberi",G,['prima'],2,False
+3º,Sergio Endrigo - Iva Zanicchi,L'arca di Noè,1970,"S. Endrigo, L. Bacalov",G,"['arca', 'noè']",3,False
+1º,Nada - Nicola Di Bari,Il cuore è uno zingaro,1971,F. Migliacci e C. Mattone,G,"['cuore', 'zingaro']",1,False
+2º,Ricchi e Poveri - José Feliciano,Che sarà,1971,"F. Migliacci, C. Pes e J. Fontana",G,['sarà'],2,False
+3º,Lucio Dalla - Equipe 84,4 marzo 1943,1971,L. Dalla e P. Pallottino,G,"['4', 'marzo', '1943']",3,False
+1º,Nicola Di Bari,I giorni dell'arcobaleno,1972,"M. Scommegna, D. Masini, P. Pintucci",M,"['giorni', 'dell', 'arcobaleno']",1,False
+2º,Peppino Gagliardi,Come le viole,1972,P. Gagliardi e G. Amendola,M,['viole'],2,False
+3º,Nada,Il re di denari,1972,C. Mattone e F. Migliacci,F,"['re', 'denari']",3,False
+1º,Peppino Di Capri,Un grande amore e niente più,1973,"F. Califano, G. Wright, G. Faiella, C. Mattone",M,['amore'],1,True
+2º,Peppino Gagliardi,Come un ragazzino,1973,"G. Amendola, P. Gagliardi",M,['ragazzino'],2,False
+3º,Milva,Da troppo tempo,1973,"L. Albertelli, G. Colonnello",F,"['troppo', 'tempo']",3,False
+1º,Iva Zanicchi,Ciao cara come stai?,1974,"C. Malgioglio, C. Daiano, Dinaro e I. Ianne",F,"['cara', 'stai']",1,False
+2º,Domenico Modugno,Questa è la mia vita,1974,"L. Beretta, D. Modugno e E. Suligoj",M,['vita'],2,False
+3º,Orietta Berti,Occhi rossi,1974,"D. Pace, C. Conti, L. Pilat e M. Panzeri",F,"['occhi', 'rossi']",3,False
+1,Gilda,Ragazza del sud,1975,R. Scalabrino,F,"['ragazza', 'sud']",1,False
+2,Angela Luce,Ipocrisia,1975,P. Giordano e E. Alfieri,F,['ipocrisia'],2,False
+2,Rosanna Fratello,Va' speranza va',1975,G. Taddei e F. Graniero,F,"['va', 'speranza', 'va']",2,False
+1º,Peppino Di Capri,Non lo faccio più,1976,"Depsa, S. Iodice e F. Berlincioni",M,['faccio'],1,False
+2º,Wess e Dori Ghezzi,"Come stai, con chi sei",1976,"C. Minellono, F. Piccarreda e U. Balsamo",G,['stai'],2,False
+3º (ex aequo),Sandro Giacobbe,Gli occhi di tua madre,1976,"S. Giacobbe, D. Pace e O. Avogadro",M,"['occhi', 'madre']",3,False
+3º (ex aequo),Albatros,Volo AZ 504,1976,V. Pallavicini e T. Cutugno,G,"['volo', 'az', '504']",3,False
+1º,Homo Sapiens,Bella da morire,1977,R. Pareti e A. Salerno,G,['morire'],1,False
+2º,Collage,Tu mi rubi l'anima,1977,G. Padovan e A. De Sanctis,G,"['rubi', 'anima']",2,False
+3º,I Santo California,Monica,1977,"P. Pinna, G. Simonelli e E. Palumbo",G,['monica'],3,False
+1º,Matia Bazar,...e dirsi ciao,1978,"G. Golzi, A. Stellita, P. Cassano, C. Marrale e A. Ruggiero",G,['dirsi'],1,False
+2º,Anna Oxa,Un'emozione da poco,1978,I. Fossati e G. Guglielminetti,F,"['emozione', 'poco']",2,False
+3º,Rino Gaetano,Gianna,1978,R. Gaetano,M,['gianna'],3,False
+1º,Mino Vergnaghi,Amare,1979,P. Finà e S. Ortone,M,['amare'],1,False
+2º,Enzo Carella,Barbara,1979,E. Carella e P. Panella,M,['barbara'],2,False
+3º,I Camaleonti,Quell'attimo in più,1979,"M. Lavezzi, O. Avogadro e D. Pace",G,"['quell', 'attimo']",3,False
+1º,Toto Cutugno,Solo noi,1980,S. Cutugno,M,[],1,False
+2º,Enzo Malepasso,Ti voglio bene,1980,Depsa e E. Malepasso,M,['bene'],2,False
+3º,Pupo,Su di noi,1980,"P. Barabani, D. Milani e E. Ghinazzi",M,[],3,False
+1º,Alice,Per Elisa,1981,"C. Bissi, F. Battiato e G. Pio",F,['elisa'],1,False
+2º,Loretta Goggi,Maledetta primavera,1981,P. A. Cassella e T. Savio,F,"['maledetta', 'primavera']",2,False
+3º,Dario Baldan Bembo,Tu cosa fai stasera?,1981,P. A. Cassella e D. Baldan Bembo,M,"['fai', 'stasera']",3,False
+1º,Riccardo Fogli,Storie di tutti i giorni,1982,"R. Fogli, G. Morra e M. Fabrizio",M,"['storie', 'giorni']",1,False
+2º,Al Bano e Romina Power,Felicità,1982,"C. Minellono, G. De Stefani e D. Farina",G,['felicità'],2,False
+3º,Drupi,Soli,1982,"G. Anelli, G. Belleno e V. De Scalzi",M,['soli'],3,False
+1º,Tiziana Rivale,Sarà quel che sarà,1983,R. Ferri e M. Fabrizio,F,"['sarà', 'quel', 'sarà']",1,False
+2º,Donatella Milani,Volevo dirti,1983,"D. Milani, D. Pace e A. Fornaciari",F,"['volevo', 'dirti']",2,False
+3º,Dori Ghezzi,Margherita non lo sa,1983,O. Prudente e O. Avogadro,F,"['margherita', 'sa']",3,False
+1º,Al Bano e Romina Power,Ci sarà,1984,C. Minellono e D. Farina,G,['sarà'],1,False
+2º,Toto Cutugno,Serenata,1984,S. Cutugno e V. Pallavicini,M,['serenata'],2,False
+3º,Christian,Cara,1984,M. Balducci,M,['cara'],3,False
+1º,Ricchi e Poveri,Se m'innamoro,1985,D. Farina e C. Minellono,G,"['m', 'innamoro']",1,False
+2º,Luis Miguel,"Noi, ragazzi di oggi",1985,S. Cutugno e C. Minellono,M,"['ragazzi', 'oggi']",2,False
+3º,Gigliola Cinquetti,Chiamalo amore,1985,D. Farina e P. A. Cassella,F,"['chiamalo', 'amore']",3,True
+1º,Eros Ramazzotti,Adesso tu,1986,"E. Ramazzotti, P. Cassano e A. Cogliati",M,['adesso'],1,False
+2º,Renzo Arbore,Il clarinetto,1986,C. Mattone e R. Arbore,M,['clarinetto'],2,False
+3º,Marcella,Senza un briciolo di testa,1986,"G. Bella, Mogol e G. Westley",F,"['briciolo', 'testa']",3,False
+1º,"Gianni Morandi, Enrico Ruggeri e Umberto Tozzi",Si può dare di più,1987,"G. Bigazzi, U. Tozzi e R. Riefoli",G,"['può', 'dare']",1,False
+2º,Toto Cutugno,Figli,1987,S. Cutugno,M,['figli'],2,False
+3º,Al Bano e Romina Power,Nostalgia canaglia,1987,"V. Pallavicini, W. Molco, A. Carrisi, R. Power e V. Mercurio",G,"['nostalgia', 'canaglia']",3,False
+1º,Massimo Ranieri,Perdere l'amore,1988,M. Marrocchi e G. Artegiani,M,"['perdere', 'amore']",1,True
+2º,Toto Cutugno,Emozioni,1988,T. Cutugno,M,['emozioni'],2,False
+3º,Luca Barbarossa,L'amore rubato,1988,L. Barbarossa,M,"['amore', 'rubato']",3,True
+1º,Anna Oxa e Fausto Leali,Ti lascerò,1989,"G. Fasano, F. Leali, F. Ciani, F. Berlincioni e S. Bardotti",G,['lascerò'],1,False
+2º,Toto Cutugno,Le mamme,1989,T. Cutugno e S. Borgia,M,['mamme'],2,False
+3º,Al Bano e Romina Power,Cara terra mia,1989,"A. Carrisi, R. Power e V. Pallavicini",G,"['cara', 'terra']",3,False
+1º,Pooh,Uomini soli,1990,V. Negrini e C. Facchinetti,G,"['uomini', 'soli']",1,False
+2º,Toto Cutugno,Gli amori,1990,"F. Berlincioni, S. Cutugno e S. De Pasquale",M,['amori'],2,False
+3º,Amedeo Minghi e Mietta,Vattene amore,1990,A. Minghi,G,"['vattene', 'amore']",3,True
+1º,Riccardo Cocciante,Se stiamo insieme,1991,R. Cocciante e Mogol,M,"['stiamo', 'insieme']",1,False
+2º,Renato Zero,Spalle al muro,1991,M. Nava,M,"['spalle', 'muro']",2,False
+3º,Marco Masini,Perché lo fai,1991,"G. Bigazzi, M. Manzani e M. Masini",M,"['perché', 'fai']",3,False
+1º,Luca Barbarossa,Portami a ballare,1992,L. Barbarossa,M,"['portami', 'ballare']",1,False
+2º,Mia Martini,Gli uomini non cambiano,1992,"G. Dati, M. Falagiani e G. Bigazzi",F,"['uomini', 'cambiano']",2,False
+3º,Paolo Vallesi,La forza della vita,1992,G. Dati e P. Vallesi,M,"['forza', 'vita']",3,False
+1º,Enrico Ruggeri,Mistero,1993,E. Ruggeri,M,['mistero'],1,False
+2º,Cristiano De Andrè,Dietro la porta,1993,D. Fossati e C. De Andrè,M,"['dietro', 'porta']",2,False
+3º,Rossana Casale e Grazia Di Michele,Gli amori diversi,1993,"R. Casale, G. Restelli e G. Di Michele",G,"['amori', 'diversi']",3,False
+1º,Aleandro Baldi,Passerà,1994,"A. Civai, G. Bigazzi e M. Falagiani",M,['passerà'],1,False
+2º,Giorgio Faletti,Signor tenente,1994,G. Faletti,M,"['signor', 'tenente']",2,False
+3º,Laura Pausini,Strani amori,1994,"A. Valsiglio, R. Buti, Cheope, M. Marati e F. Tanini",F,"['strani', 'amori']",3,False
+1º,Giorgia,Come saprei,1995,"G. Todrani, E. Ramazzotti, V. Tosetto e A. Cogliati",F,['saprei'],1,False
+2º,Gianni Morandi e Barbara Cola,In amore,1995,Duchesca e B. Zambrini,G,['amore'],2,True
+3º,Ivana Spagna,Gente come noi,1995,"I. Spagna, G. Spagna, F. Zanotti, A. Valsiglio e M. Marati",F,['gente'],3,False
+1º,Ron (con Tosca non accreditata),Vorrei incontrarti fra cent'anni,1996,R. Cellamare,G,"['vorrei', 'incontrarti', 'cent', 'anni']",1,False
+2º,Elio e le Storie Tese,La terra dei cachi,1996,"D. Civaschi, S. Belisari, S. Conforti e N. Fasani",G,"['terra', 'cachi']",2,False
+3º,Giorgia,Strano il mio destino,1996,G. Todrani e M. Fabrizio,F,"['strano', 'destino']",3,False
+1º,Jalisse,Fiumi di parole,1997,"C. Di Domenico, A. Drusian e F. Ricci",G,"['fiumi', 'parole']",1,False
+2º,Anna Oxa,Storie,1997,"Depsa, M. Marati, S. Monetti, A. Valsiglio e F. Zanotti",F,['storie'],2,False
+3º,Syria,Sei tu,1997,C. Mattone e A. Salerno,F,[],3,False
+1º,Annalisa Minetti,Senza te o con te,1998,M. Luca e P. Palma,F,[],1,False
+2º,Antonella Ruggiero,Amore lontanissimo,1998,A. Ruggiero e R. Colombo,F,"['amore', 'lontanissimo']",2,True
+3º,Lisa,Sempre,1998,G. Morra e M. Fabrizio,F,['sempre'],3,False
+1º,Anna Oxa,Senza pietà,1999,C. Guidetti e A. Salerno,F,['pietà'],1,False
+2º,Antonella Ruggiero,Non ti dimentico (Se non ci fossero le nuvole),1999,"R. Colombo, A. Ruggiero e Kaballà",F,"['dimentico', 'fossero', 'nuvole']",2,False
+3º,Mariella Nava,Così è la vita,1999,M. Nava,F,['vita'],3,False
+1º,Piccola Orchestra Avion Travel,Sentimento,2000,"D. Ciaramella, G. D'Argenzio, F. Mesolella, F. Spinetti, M. Tronco e G. Servillo",G,['sentimento'],1,False
+2º,Irene Grandi,La tua ragazza sempre,2000,V. Rossi e G. Curreri,F,"['ragazza', 'sempre']",2,False
+3º,Gianni Morandi,Innamorato,2000,"E. Ramazzotti, C. Guidetti e A. Cogliati",M,['innamorato'],3,False
+1º,Elisa,Luce (tramonti a nord est),2001,E. Toffoli e A. Fornaciari,F,"['luce', 'tramonti', 'nord', 'est']",1,False
+2º,Giorgia,Di sole e d'azzurro,2001,"A. Fornaciari, M. Saggese e M. Vergnaghi",F,"['sole', 'azzurro']",2,False
+3º,Matia Bazar,Questa nostra grande storia d'amore,2001,G. Golzi e P. Cassano,G,"['storia', 'amore']",3,True
+1º,Matia Bazar,Messaggio d'amore,2002,G. Golzi e P. Cassano,G,"['messaggio', 'amore']",1,True
+2º,Alexia,Dimmi come...,2002,A. Aquilani e M. Marcolini,F,['dimmi'],2,False
+3º,Gino Paoli,Un altro amore,2002,G. Paoli,M,['amore'],3,True
+1º,Alexia,Per dire di no,2003,A. Salerno e Alexia,F,['dire'],1,False
+2º,Alex Britti,7000 caffè,2003,A. Britti,M,"['7000', 'caffè']",2,False
+3º,Sergio Cammariere,Tutto quello che un uomo,2003,R. Kunstler e S. Cammariere,M,['uomo'],3,False
+1º,Marco Masini,L'uomo volante,2004,"M. Masini, G. Dati e G. Orlandi",M,"['uomo', 'volante']",1,False
+2º,Mario Rosini,Sei la vita mia,2004,"L. Leone, L. Patruno, C. Noto, L. Rana e G. Giorgilli",M,['vita'],2,False
+3º,Linda,"Aria, sole, terra e mare",2004,"L. Valori, L. Bruti, M. Di Paolo, D. De Santis",F,"['aria', 'sole', 'terra', 'mare']",3,False
+1,Francesco Renga,Angelo,2005,F. Renga e M. Zappatini,M,['angelo'],1,False
+2,Toto Cutugno con Annalisa Minetti,Come noi nessuno al mondo,2005,S. Cutugno,G,['mondo'],2,False
+3,Antonella Ruggiero,Echi d'infinito,2005,M. Venuti e Kaballà,F,"['echi', 'infinito']",3,False
+1,Povia,Vorrei avere il becco,2006,G. Povia,M,"['vorrei', 'avere', 'becco']",1,False
+2,Nomadi,Dove si va,2006,"C. Cattini, D. Sacco, M. Vecchi e G. Carletti",G,"['dove', 'va']",2,False
+3,Anna Tatangelo,Essere una donna,2006,Mogol e G. D'Alessio,F,"['essere', 'donna']",3,False
+1º,Simone Cristicchi,Ti regalerò una rosa,2007,S. Cristicchi,M,"['regalerò', 'rosa']",1,False
+2º,Al Bano,Nel perdono,2007,"R. Zero, V. Incenzo, A. Paoletti e Y. Carrisi",M,['perdono'],2,False
+3º,Piero Mazzocchetti,Schiavo d'amore,2007,G. Morra e M. Fabrizio,M,"['schiavo', 'amore']",3,True
+1º,Giò Di Tonno e Lola Ponce,Colpo di fulmine,2008,G. Nannini,G,"['colpo', 'fulmine']",1,False
+2º,Anna Tatangelo,Il mio amico,2008,L. D'Alessio,F,['amico'],2,False
+3º,Fabrizio Moro,Eppure mi hai cambiato la vita,2008,F. Moro,M,"['hai', 'cambiato', 'vita']",3,False
+1º,Marco Carta,La forza mia,2009,P. Carta,M,['forza'],1,False
+2º,Povia,Luca era gay,2009,G. Povia,M,"['luca', 'era', 'gay']",2,False
+3º,Sal Da Vinci,Non riesco a farti innamorare,2009,"V. D'Agostino, L. D'Alessio e S. M. Sorrentino",M,"['riesco', 'farti', 'innamorare']",3,False
+1º,Valerio Scanu,Per tutte le volte che...,2010,P. Carone,M,['volte'],1,False
+2º,Pupo ed Emanuele Filiberto con Luca Canonici,Italia amore mio,2010,E. Filiberto ed E. Ghinazzi,G,"['italia', 'amore']",2,True
+3º,Marco Mengoni,Credimi ancora,2010,"M. Mengoni, S. Fabiani, M. Calabrese e P. Calabrese",M,"['credimi', 'ancora']",3,False
+1º,Roberto Vecchioni,Chiamami ancora amore,2011,R. Vecchioni,M,"['chiamami', 'ancora', 'amore']",1,True
+2º,Modà con Emma,Arriverà,2011,"F. Silvestre, E. Zapparoli e E. Palmosi",G,['arriverà'],2,False
+3º,Al Bano,Amanda è libera,2011,"F. Berlincioni, A. Carrisi e A. Paoletti",M,"['amanda', 'libera']",3,False
+1º,Emma,Non è l'inferno,2012,"F. Silvestre, L. Sala e E. Palmosi",F,['inferno'],1,False
+2º,Arisa,La notte,2012,G. Anastasi,F,['notte'],2,False
+3º,Noemi,Sono solo parole,2012,F. Moro,F,['parole'],3,False
+1º,Marco Mengoni,L'essenziale,2013,"R. Casalino, M. Mengoni e F. De Benedittis",M,['essenziale'],1,False
+2º,Elio e le Storie Tese,La canzone mononota,2013,"S. Belisari, S. Conforti, D. L. Civaschi e N. Fasani",G,"['canzone', 'mononota']",2,False
+3º,Modà,Se si potesse non morire,2013,F. Silvestre,G,"['potesse', 'morire']",3,False
+1º,Arisa,Controvento,2014,G. Anastasi,F,['controvento'],1,False
+2º,Raphael Gualazzi & The Bloody Beetroots,Liberi o no,2014,"R. Gualazzi, B. Rifo, L. Beccafichi",G,['liberi'],2,False
+3º,Renzo Rubino,Ora,2014,"R. Rubino, A. Rodini",M,['ora'],3,False
+1º,Il Volo,Grande amore,2015,F. Boccia e C. Esposito,G,['amore'],1,True
+2º,Nek,Fatti avanti amore,2015,"Nek, L. Chiaravalli, A. Bonomo e G. Fazio",M,"['fatti', 'avanti', 'amore']",2,True
+3º,Malika Ayane,Adesso e qui (nostalgico presente),2015,"M. Ayane, Pacifico, G. Caccamo e A. Flora",F,"['adesso', 'nostalgico', 'presente']",3,False
+1º,Stadio,Un giorno mi dirai,2016,"S. Grandi, G. Curreri e L. Chiaravalli",G,"['giorno', 'dirai']",1,False
+2º,Francesca Michielin,Nessun grado di separazione,2016,"F. Michielin, F. Abbate, Cheope e F. Gargiulo",F,"['nessun', 'grado', 'separazione']",2,False
+3º,Giovanni Caccamo e Deborah Iurato,Via da qui,2016,G. Sangiorgi,G,['via'],3,False
+1º,Francesco Gabbani,Occidentali's Karma,2017,"F. Ilacqua, F. Gabbani e L. Chiaravalli",M,"['occidentali', 's', 'karma']",1,False
+2º,Fiorella Mannoia,Che sia benedetta,2017,Amara e S. Mineo,F,"['sia', 'benedetta']",2,False
+3º,Ermal Meta,Vietato morire,2017,E. Meta,M,"['vietato', 'morire']",3,False
+1º,Ermal Meta e Fabrizio Moro,Non mi avete fatto niente,2018,"E. Meta, F. Mobrici e A. Febo",G,"['avete', 'fatto']",1,False
+2º,Lo Stato Sociale,Una vita in vacanza,2018,"A. Cazzola, F. Draicchio, L. Guenzi, A. Guidetti, E. Roberto e M. Romagnoli",G,"['vita', 'vacanza']",2,False
+3º,Annalisa,Il mondo prima di te,2018,"Annalisa, D. Simonetta e A. Raina",F,"['mondo', 'prima']",3,False
+1º,Mahmood,Soldi,2019,Mahmood,M,['soldi'],1,False
+2º,Ultimo,I tuoi particolari,2019,Ultimo,M,['particolari'],2,False
+3º,Il Volo,Musica che resta,2019,"G. Nannini, E. Munda, P. Romitelli, P. Mammaro e A. Carozza",G,"['musica', 'resta']",3,False
+1º,Diodato,Fai rumore,2020,Diodato e E. Roberts,M,"['fai', 'rumore']",1,False
+2º,Francesco Gabbani,Viceversa,2020,F. Gabbani e Pacifico,M,['viceversa'],2,False
+3º,Pinguini Tattici Nucleari,Ringo Starr,2020,R. Zanotti,G,"['ringo', 'starr']",3,False
+1º,Måneskin,Zitti e buoni,2021,"D. David, T. Raggi, V. De Angelis e E. Torchio",G,"['zitti', 'buoni']",1,False
+2º,Francesca Michielin e Fedez,Chiamami per nome,2021,"F. Michielin, Fedez, J. D'Amico, A. Mahmoud, A. Raina e D. Simonetta",G,"['chiamami', 'nome']",2,False
+3º,Ermal Meta,Un milione di cose da dirti,2021,E. Meta e R. Cardelli,M,"['milione', 'cose', 'dirti']",3,False
+1º,Mahmood e Blanco,Brividi,2022,"Mahmood, Blanco e Michelangelo",G,['brividi'],1,False
+2º,Elisa,O forse sei tu,2022,Elisa e D. Petrella,F,['forse'],2,False
+3º,Gianni Morandi,Apri tutte le porte,2022,L. Jovanotti e R. Onori,M,"['apri', 'porte']",3,False
+1º,Marco Mengoni,Due vite,2023,"M. Mengoni, D. Petrella e D. Simonetta",M,['vite'],1,False
+2º,Lazza,Cenere,2023,"Lazza, D. Petrella e Dardust",M,['cenere'],2,False
+3º,Mr. Rain,Supereroi,2023,"Mr. Rain, F. Abbate e L. Vizzini",M,['supereroi'],3,False

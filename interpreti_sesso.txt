@@ -1,0 +1,1064 @@
+Interprete;Sesso
+Nilla Pizzi;F
+Nilla Pizzi e Achille Togliani;G
+Achille Togliani;M
+Achille Togliani e Duo Fasano;G
+Duo Fasano;G
+Nilla Pizzi e Duo Fasano;G
+Oscar Carboni;M
+Gino Latilla;M
+Carla Boni - Flo Sandon's;G
+Nilla Pizzi e Doppio Quintetto Vocale - Teddy Reno e Quartetto Stars;G
+Achille Togliani - Teddy Reno;G
+Gino Latilla e Doppio Quintetto Vocale - Giorgio Consolini;G
+Gino Latilla - Giorgio Consolini;G
+Achille Togliani - Katyna Ranieri;G
+Carla Boni - Quartetto Stars;G
+Carla Boni - Katyna Ranieri;G
+Nilla Pizzi - Teddy Reno;G
+Katyna Ranieri - Achille Togliani;G
+Gino Latilla - Teddy Reno;G
+Achille Togliani - Giorgio Consolini;G
+Nilla Pizzi - Flo Sandon's;G
+Giorgio Consolini - Gino Latilla;G
+Gino Latilla - Franco Ricci;G
+Natalino Otto - Vittoria Mongardi;G
+Flo Sandon's - Carla Boni;G
+Quartetto Cetra - Vittoria Mongardi e Duo Fasano;G
+Gino Latilla e Duo Fasano - Katyna Ranieri e Giorgio Consolini;G
+Achille Togliani - Natalino Otto;G
+Achille Togliani - Flo Sandon's e Natalino Otto;G
+Vittoria Mongardi - Flo Sandon's;G
+Carla Boni, Gino Latilla e Duo Fasano - Quartetto Cetra;G
+Carla Boni e Duo Fasano - Giorgio Consolini;G
+Gino Latilla e Duo Fasano - Quartetto Cetra;G
+Carla Boni e Duo Fasano - Quartetto Cetra;G
+Achille Togliani - Gianni Ravera;G
+Duo Fasano e Gino Latilla - Quartetto Cetra;G
+Katyna Ranieri - Vittoria Mongardi;G
+Carla Boni - Quartetto Cetra;G
+Gino Latilla - Natalino Otto;G
+Claudio Villa - Tullio Pane;G
+Natalino Otto e Trio Aurora - Bruno Pallesi, Nuccia Bongiovanni e Radio Boys;G
+Claudio Villa - Narciso Parigi;G
+Antonio Basurto - Gianni Ravera;G
+Jula de Palma - Marisa Colomber;G
+Narciso Parigi e Radio Boys - Natalino Otto e Trio Aurora;G
+Natalino Otto - Antonio Basurto;G
+Jula de Palma - Antonio Basurto;G
+Bruno Pallesi - Jula de Palma;G
+Clara Jaione e Radio Boys - Nella Colombo, Bruno Rosettani e Trio Aurora;G
+Natalino Otto - Nuccia Bongiovanni e Radio Boys;G
+Bruno Pallesi e Nuccia Bongiovanni - Bruno Rosettani, Nella Colombo e Trio Aurora;G
+Gianni Ravera - Tullio Pane;G
+Bruno Rosettani e Trio Aurora - Clara Jaione e Radio Boys;G
+Franca Raimondi;F
+Tonina Torrielli;F
+Luciana Gonzales;F
+Ugo Molinari;M
+Gianni Marzocchi;M
+Gianni Marzocchi e Clara Vincenzi;G
+Clara Vincenzi;F
+Gianni Marzocchi e Franca Raimondi;G
+Franca Raimondi e Clara Vincenzi;G
+Claudio Villa - Nunzio Gallo;G
+Claudio Villa - Giorgio Consolini;G
+Gino Latilla - Tonina Torrielli;G
+Carla Boni, Gino Latilla e Duo Fasano - Gloria Christian e Poker di Voci;G
+Claudio Villa e Gino Latilla - Natalino Otto e Poker di Voci;G
+Tina Allori - Tonina Torrielli;G
+Carla Boni - Nunzio Gallo;G
+Gino Baldi e Duo Fasano - Natalino Otto e Poker di Voci;G
+Carla Boni e Duo Fasano - Gloria Christian, Natalino Otto e Poker di Voci;G
+Gino Latilla - Luciano Virgili;G
+Tina Allori - Flo Sandon's;G
+Fiorella Bini - Flo Sandon's;G
+Gino Baldi - Luciano Virgili;G
+Gino Baldi - Jula de Palma;G
+Gino Latilla - Nunzio Gallo;G
+Fiorella Bini e Duo Fasano - Jula de Palma e Poker di Voci;G
+Gianni Ravera - Natalino Otto;G
+Carla Boni - Jula de Palma;G
+Domenico Modugno - Johnny Dorelli;G
+Nilla Pizzi - Tonina Torrielli;G
+Gino Latilla - Nilla Pizzi;G
+Claudio Villa - Nilla Pizzi;G
+Carla Boni e Gino Latilla - Aurelio Fierro e Gloria Christian;G
+Claudio Villa e Duo Fasano - Aurelio Fierro e Trio Joyce;G
+Natalino Otto - Carla Boni e Gino Latilla;G
+Tonina Torrielli - Cristina Jorio;G
+Johnny Dorelli - Natalino Otto;G
+Carla Boni - Giorgio Consolini;G
+Claudio Villa e Gino Latilla - Gloria Christian;G
+Marisa Del Frate - Giorgio Consolini;G
+Marisa Del Frate - Gloria Christian;G
+Duo Fasano e Tonina Torrielli - Aurelio Fierro e Trio Joyce;G
+Carla Boni - Cristina Jorio;G
+Nilla Pizzi e Aurelio Fierro - Claudio Villa e Duo Fasano;G
+Tonina Torrielli e Duo Fasano - Trio Joyce;G
+Johnny Dorelli - Giorgio Consolini;G
+Arturo Testa - Gino Latilla;G
+Teddy Reno - Achille Togliani;G
+Jula de Palma - Tonina Torrielli;G
+Teddy Reno - Aurelio Fierro;G
+Fausto Cigliano - Nilla Pizzi;G
+Natalino Otto - Aurelio Fierro;G
+Betty Curtis - Wilma De Angelis;G
+Johnny Dorelli e Betty Curtis - Gino Latilla e Claudio Villa;G
+Claudio Villa - Betty Curtis;G
+Tonina Torrielli - Nilla Pizzi;G
+Anna D'Amico - Natalino Otto;G
+Natalino Otto - Gino Latilla;G
+Jula de Palma - Miranda Martino;G
+Arturo Testa - Fausto Cigliano;G
+Claudio Villa - Johnny Dorelli;G
+Wilma De Angelis - Jula de Palma;G
+Achille Togliani - Arturo Testa;G
+Tony Dallara - Renato Rascel;G
+Domenico Modugno - Teddy Reno;G
+Wilma De Angelis - Joe Sentieri;G
+Joe Sentieri - Sergio Bruni;G
+Giorgio Consolini - Sergio Bruni;G
+Jula de Palma - Tony Dallara;G
+Teddy Reno - Mina;G
+Fausto Cigliano - Irene D'Areni;G
+Johnny Dorelli - Jula de Palma;G
+Flo Sandon's - Gloria Christian;G
+Johnny Dorelli - Betty Curtis;G
+Germana Caroli - Arturo Testa;G
+Gino Latilla - Miranda Martino;G
+Mina - Betty Curtis;G
+Tonina Torrielli - Arturo Testa;G
+Achille Togliani - Nilla Pizzi;G
+Wilma De Angelis - Gloria Christian;G
+Betty Curtis - Luciano Tajoli;G
+Adriano Celentano - Little Tony;G
+Milva - Gino Latilla;G
+Mina - Nelly Fioramonti;G
+Mina - Jenny Luna;G
+Pino Donaggio - Teddy Reno;G
+Arturo Testa - Tonina Torrielli;G
+Teddy Reno - Sergio Bruni;G
+Sergio Bruni - Rocco Granata;G
+Gino Paoli - Tony Dallara;G
+Umberto Bindi - Miranda Martino;G
+Joe Sentieri - Fausto Cigliano;G
+Bruno Martino - Jula de Palma;G
+Giorgio Gaber - Maria Monti;G
+Luciano Rondinella - Edoardo Vianello;G
+Miranda Martino - Jimmy Fontana;G
+Joe Sentieri - Betty Curtis;G
+Claudio Villa - Sergio Renda;G
+Aura D'Angelo - Silvia Guidi;G
+Gianni Meccia - Wilma De Angelis;G
+Tony Renis - Niki Davis;G
+Cocky Mazzetti - Achille Togliani;G
+Carla Boni - Aurelio Fierro;G
+Nadia Liani - Jolanda Rossin;G
+Domenico Modugno - Claudio Villa;G
+Sergio Bruni - Milva;G
+Sergio Bruni - Ernesto Bonino;G
+Tony Renis - Emilio Pericoli;G
+Milva - Miriam Del Mare;G
+Gino Bramieri - Aurelio Fierro;G
+Arturo Testa - Jolanda Rossin;G
+Joe Sentieri - Aurelio Fierro;G
+Tonina Torrielli - Nelly Fioramonti;G
+Flo Sandon's - Mario D'Alba;G
+Nunzio Gallo - Rocco Montana;G
+Silvia Guidi - Jenny Luna;G
+Fausto Cigliano - Jenny Luna;G
+Rossana - Gian Costello;G
+Wanda Romanelli - Nelly Fioramonti;G
+Wilma De Angelis - Tanya;G
+Luciano Tajoli - Betty Curtis;G
+Gesy Sebena - Giacomo Rondinella;G
+Gene Colonnello - Gloria Christian;G
+Corrado Lojacono - Luciano Tajoli;G
+Johnny Dorelli - Gloria Christian;G
+Nunzio Gallo - Bruna Lelli;G
+Wilma De Angelis - Lucia Altieri;G
+Pierfilippi - Cocky Mazzetti;G
+Gino Bramieri - Rocco Torrebruno;G
+Flo Sandon's - Edda Montanari;G
+Aura D'Angelo - Claudio Villa;G
+Cocky Mazzetti - Joe Sentieri;G
+Mario Abbate - Fausto Cigliano;G
+Narciso Parigi - Giorgio Consolini;G
+Claudio Villa - Eugenia Foligatti;G
+Pino Donaggio - Cocky Mazzetti;G
+Wilma De Angelis - Johnny Dorelli;G
+Milva - Luciano Tajoli;G
+Tonina Torrielli - Eugenia Foligatti;G
+Aurelio Fierro - Claudio Villa;G
+Emilio Pericoli - Sergio Bruni;G
+Aura D'Angelo - Arturo Testa;G
+Milva - Gianni Lacommare;G
+Gianni Lacommare - Tonina Torrielli;G
+Joe Sentieri - Johnny Dorelli;G
+Ennio Sangiusto - Quartetto Radar;G
+Ennio Sangiusto - Luciano Tajoli;G
+Mario Abbate - Quartetto Radar;G
+Tony Renis - Cocky Mazzetti;G
+Arturo Testa - Joe Sentieri;G
+Wilma De Angelis - Flo Sandon's;G
+Aurelio Fierro - Sergio Bruni;G
+Mario Abbate - Flo Sandon's;G
+Gigliola Cinquetti - Patricia Carli;G
+Domenico Modugno - Frankie Laine;G
+Tony Dallara - Ben E. King;G
+Gino Paoli - Antonio Prieto;G
+Fabrizio Ferretti - Gil Fields e The Fraternity Brothers;G
+Pino Donaggio - Frankie Avalon;G
+Roby Ferrante - Paul Anka;G
+Little Tony - Gene Pitney;G
+Bruno Filippini - Gil Fields e The Fraternity Brothers;G
+Remo Germani - Nino Tempo e April Stevens;G
+Robertino - Bobby Rydell;G
+Bobby Solo - Frankie Laine;G
+Giorgio Gaber - Patricia Carli;G
+Fausto Cigliano - Gene Pitney;G
+Tony Renis - Frankie Avalon;G
+Piero Focaccia - Bobby Rydell;G
+Milva - Frida Boccara;G
+Cocky Mazzetti - Los Hermanos Rigual;G
+Claudio Villa - Peggy March;G
+Emilio Pericoli - Peter Kraus;G
+Aurelio Fierro - Marina Moran;G
+Laura Villa - Los Hermanos Rigual;G
+Lilly Bonato - Richard Moser jr.;G
+Nicola Arigliano - Peter Kraus;G
+Bobby Solo - The New Christy Minstrels;G
+Ornella Vanoni - Udo Jürgens;G
+Nicola Di Bari - Gene Pitney;G
+Fred Bongusto - Kiki Dee;G
+Gigliola Cinquetti - Connie Francis;G
+Betty Curtis - Petula Clark;G
+Pino Donaggio - Jody Miller;G
+Bruno Filippini - Yukari Ito;G
+Wilma Goich - The New Christy Minstrels;G
+Remo Germani e Le Amiche - Audrey;G
+Vittorio Inzaina - Les Surfs;G
+Milva - Bernd Spier;G
+John Foster - Joe Damiano;G
+Ricky Gianco - Jody Miller;G
+Gianni Mascolo - Dusty Springfield;G
+Don Miko - Timi Yuro;G
+Iva Zanicchi - Gene Pitney;G
+Bruno Lauzi - Kenny Rankin;G
+Giordano Colombo - Hoagy Lands;G
+Beppe Cardile - Anita Harris;G
+Robertino - Danyel Gérard;G
+Franco Tozzi - Johnny Tillotson;G
+Peppino Gagliardi - Timi Yuro;G
+Fabrizio Ferretti - Dusty Springfield;G
+Domenico Modugno - Gigliola Cinquetti;G
+Caterina Caselli - Gene Pitney;G
+Wilma Goich - Les Surfs;G
+Pino Donaggio - Claudio Villa;G
+Anna Identici - The New Christy Minstrels;G
+Orietta Berti - Ornella Vanoni;G
+Giorgio Gaber - Pat Boone;G
+Edoardo Vianello - Françoise Hardy;G
+Sergio Endrigo - Chad & Jeremy;G
+Milva - Richard Anthony;G
+Peppino Gagliardi - Pat Boone;G
+Remo Germani - Les Surfs;G
+Iva Zanicchi - Vic Dana;G
+I Ribelli - The New Christy Minstrels;G
+Luciana Turina - Gino;G
+Adriano Celentano - Trio del Clan;G
+Franco Tozzi - Bobby Vinton;G
+Anna Marchetti - Plinio Maggi;G
+Gino Paoli - Ricardo;G
+Lucio Dalla - The Yardbirds;G
+Giuseppe Di Stefano - P. J. Proby;G
+Luciano Tomei - Luis Alberto del Paranà e Los Paraguayos;G
+Bobby Solo - The Yardbirds;G
+John Foster - Paola Bertoni;G
+Equipe 84 - The Renegades;G
+Claudio Villa - Iva Zanicchi;G
+Annarita Spinaci - Les Surfs;G
+I Giganti - The Bachelors;G
+Ornella Vanoni - Mario Guarnera;G
+Orietta Berti - Les Compagnons de la Chanson;G
+Lucio Dalla - The Rokes;G
+Sergio Endrigo - Memo Remigi;G
+Gian Pieretti - Antoine;G
+Johnny Dorelli - Don Backy;G
+Little Tony - Mario Zelinotti;G
+Pino Donaggio - Carmen Villani;G
+Wilma Goich - The Bachelors;G
+Giorgio Gaber - Remo Germani;G
+Gianni Pettenati - Gene Pitney;G
+Bobby Solo - Connie Francis;G
+Riki Maiocchi - Marianne Faithfull;G
+Luigi Tenco - Dalida;G
+Peppino Di Capri - Dionne Warwick;G
+Roberta Amadei - Carmelo Pagano;G
+Tony Del Monaco - Betty Curtis;G
+Fred Bongusto - Anna German;G
+Caterina Caselli - Sonny Bono e Cher;G
+Nico Fidenco - Cher;G
+Jimmy Fontana - Edoardo Vianello;G
+Mino Reitano - The Hollies;G
+Los Marcellos Ferial - The Happenings;G
+Domenico Modugno - Gidiuli;G
+Donatella Moretti - Bobby Goldsboro;G
+Milva - Los Bravos;G
+Sergio Endrigo - Roberto Carlos;G
+Ornella Vanoni - Marisa Sannia;G
+Adriano Celentano - Milva;G
+Fausto Leali - Wilson Pickett;G
+Antoine - Gianni Pettenati;G
+Anna Identici - The Sandpipers;G
+Massimo Ranieri - I Giganti;G
+Gigliola Cinquetti - Giuliana Valci;G
+Al Bano - Bobbie Gentry;G
+Little Tony - Mario Guarnera;G
+Wilma Goich - Dino;G
+Annarita Spinaci - Yoko Kishi;G
+Louis Armstrong - Lara Saint Paul;G
+Tony Del Monaco - Dionne Warwick;G
+Peppino Gagliardi - Eartha Kitt;G
+Tony Renis - Domenico Modugno;G
+Nino Ferrer - Pilade;G
+Johnny Dorelli - Paul Anka;G
+Elio Gandolfi - Shirley Bassey;G
+The Rokes - The Cowsills;G
+Pino Donaggio - Timi Yuro;G
+Giusy Romeo - Sacha Distel;G
+Iva Zanicchi - Udo Jürgens;G
+Orietta Berti - Piergiorgio Farina;G
+Bobby Solo - Iva Zanicchi;G
+Sergio Endrigo - Mary Hopkin;G
+Don Backy - Milva;G
+Fausto Leali - Tony Del Monaco;G
+Nada - The Rokes;G
+Gigliola Cinquetti - France Gall;G
+Mal - The Showmen;G
+Caterina Caselli - Johnny Dorelli;G
+Lucio Battisti - Wilson Pickett;G
+Orietta Berti - Massimo Ranieri;G
+Carmen Villani - Alessandra Casaccia;G
+Rita Pavone - Dik Dik;G
+Riccardo Del Turco - Antoine;G
+Junior Magli - The Casuals;G
+Wilma Goich - The Sweet Inspirations;G
+Checco - Elio Gandolfi;G
+Rosanna Fratello - Brenton Wood;G
+New Trolls - Leonardo;G
+Robertino - Rocky Roberts;G
+Mino Reitano - Claudio Villa;G
+Armando Savini - Sonia;G
+Gabriella Ferri - Stevie Wonder;G
+Memo Remigi - Isabella Iannetti;G
+Adriano Celentano - Claudia Mori;G
+Nicola Di Bari - Ricchi e Poveri;G
+Sergio Endrigo - Iva Zanicchi;G
+Ornella Vanoni - Camaleonti;G
+Patty Pravo - Little Tony;G
+Gigliola Cinquetti - Bobby Solo;G
+Rosalino Cellamare - Nada;G
+Antoine - Anna Identici;G
+Orietta Berti - Mario Tessuto;G
+Luciano Tajoli - Mal;G
+Gianni Nazzaro - Marisa Sannia;G
+Fausto Leali - Carmen Villani;G
+Tony Renis - Sergio Leonardi;G
+Nino Ferrer - Caterina Caselli;G
+Rocky Roberts - Il Supergruppo;G
+Rita Pavone - Valeria Mongardini;G
+Ragazzi della via Gluck - Paolo Mengoli;G
+Pino Donaggio - Sandie Shaw;G
+Rosanna Fratello - I Domodossola;G
+Donatello - Dik Dik;G
+Michele - Lucia Rizzi;G
+Emiliana Perina - Gens;G
+Renato Rascel - Pio;G
+Rossano - Dori Ghezzi;G
+Francesco Banti - Dino Drusiani;G
+Claudio Villa - Tony Del Monaco;G
+Nada - Nicola Di Bari;G
+Ricchi e Poveri - José Feliciano;G
+Lucio Dalla - Equipe 84;G
+Donatello - Marisa Sannia;G
+Adriano Celentano - Coro Alpino Milanese;G
+Domenico Modugno - Carmen Villani;G
+Don Backy - Gianni Nazzaro;G
+Al Bano - Aguaviva;G
+Gigliola Cinquetti - Ray Conniff;G
+Caterina Caselli - Dik Dik;G
+Pino Donaggio - Peppino Di Capri;G
+Little Tony - Formula 3;G
+Sergio Endrigo - New Trolls;G
+Sergio Menegale - Wallace Collection;G
+Rosanna Fratello - Nino Ferrer;G
+Maurizio & Fabrizio - Protagonisti;G
+Paolo Mengoli - Mark e Martha;G
+I Giganti - Fabio Trioli;G
+Jordan e i middle of the road - Gens;G
+Edda Ollari - Lorenza Visconti;G
+Nomadi - Mal;G
+Pio - Mau Cristiani;G
+Piero Focaccia - Mungo Jerry;G
+Nicola Di Bari;M
+Peppino Gagliardi;M
+Nada;F
+Gianni Morandi;M
+Gianni Nazzaro;M
+Delirium;G
+Marcella Bella;F
+Lucio Dalla;M
+Gigliola Cinquetti;F
+Donatello;M
+Ricchi e Poveri;G
+Milva;F
+Lara Saint Paul;F
+Domenico Modugno;M
+Rita Pavone;F
+Pino Donaggio;M
+Aguaviva;G
+Anna Identici;F
+Michele;M
+Carla Bissi;F
+Fausto Leali;M
+Marisa Sacchetto;F
+Delia;F
+Angelica;F
+Tony Cucchiara;M
+Bobby Solo;M
+Roberto Carlos;M
+I Nuovi Angeli;G
+Peppino Di Capri;M
+Gilda Giuliani;F
+Wess e Dori Ghezzi;G
+Roberto Vecchioni;M
+Umberto Balsamo;M
+Camaleonti;G
+Memo Remigi;M
+Alessandro;M
+Lionello;M
+Mocedades;G
+Pop Tops;G
+Jet;G
+Bassano;G
+Carmen Amato;F
+Sergio Endrigo;M
+Lolita;F
+Christian De Sica;M
+Alberto Feri;M
+Junior Magli;M
+Le Figlie del Vento;G
+Drupi;M
+Toni Santagata;M
+Iva Zanicchi;F
+Orietta Berti;F
+Anna Melato;F
+Emanuela Cortesi;F
+I Domodossola;G
+Les Charlots;G
+Valentina Greco;F
+Mouth & MacNeal;G
+Al Bano;M
+Mino Reitano;M
+Rosanna Fratello;F
+Little Tony;M
+Middle of the Road;G
+Kambiz;M
+Donatella Rettore;F
+Riccardo Fogli;M
+Franco Simone;M
+Orchestra Spettacolo Casadei;G
+Paola Musiani;F
+Antonella Bottazzi;F
+Rossella;F
+Sonia Gigliola Conti;F
+Piero Focaccia;M
+Gilda;F
+Angela Luce;F
+Laura;F
+Franco e le Piccole Donne;G
+Le Nuove Erbe;G
+Nico dei Gabbiani;M
+Eugenio Alberti;M
+Gianni Migliardi;M
+Piero Cotto;M
+Stefania;F
+Emy Cesaroni;F
+Gabriella Sanna;F
+Daniela;F
+Eva 2000;F
+Jean-François Michael;M
+Annagloria;F
+Antonella Bellan;F
+Lorenzo Pilat;M
+G.Men;G
+Kriss and Saratoga;G
+La Quinta Faccia;G
+Paola Folzini;F
+Goffredo Canarini;M
+Le Volpi Blu;G
+Leila Selli;F
+Nannarella;F
+Ely Neri e la sua orchestra;G
+Sandro Giacobbe;M
+Albatros;G
+Paolo Frescura;M
+Carlo Gigli;M
+Daniel Sentacruz Ensemble;G
+Gli Opera;G
+La Strana Società;G
+Ricchi e Poveri con I Nostri Figli;G
+Patrizio Sandrelli;M
+Miko;M
+Profeti;G
+La Nuova Gente;G
+Santino Rocchetti;M
+Gloriana;F
+Antonio Buonomo;M
+Leano Morelli;M
+Romina Power;F
+Maggie Mae;F
+Armonium;G
+Vanna Leali;F
+Umberto Lupi;M
+Ezio Maria Picciotta;M
+Silvano Vittorio;M
+Homo Sapiens;G
+Collage;G
+I Santo California;G
+Umberto Napolitano;M
+Daniela Davoli;F
+Matia Bazar;G
+Anna Oxa;F
+Rino Gaetano;M
+Ciro Sebastianelli;M
+Anselmo Genovese;M
+Schola Cantorum;G
+Laura Luca;F
+Donato Ciletti;M
+Roberto Carrino;M
+Dora Moroni;F
+Marco Ferradini;M
+Beans;G
+Mino Vergnaghi;M
+Enzo Carella;M
+I Camaleonti;G
+Enrico Beruschi;M
+Franco Fanigliulo;M
+Lorella Pescerelli;F
+Kim & The Cadillacs;G
+Pandemonium;G
+Antoine;M
+Grimm;G
+Marinella;F
+Ayx;G
+Nicoletta Bauce;F
+Il Était une Fois;G
+Michele Vicino;M
+Roberta;F
+Massimo Abbate;M
+Gianni Mocchetti;M
+Toto Cutugno;M
+Enzo Malepasso;M
+Pupo;M
+La Bottega dell'Arte;G
+Sally Oldfield;F
+Stefano Rosso;M
+Leroy Gomez;M
+Paolo Riviera;M
+Decibel;G
+Francesco Magni;M
+Aldo Donati;M
+Giorgio Zito e i Diesel;G
+Linda Lee;F
+Bruno D'Andrea;M
+Orlando Johnson;M
+Alberto Cheli;M
+Peppino di Capri;M
+Omelet;G
+Rimmel;G
+Henry Freis;M
+Mela Lo Cicero;F
+Gianfranco De Angelis;M
+Alberto Beltrami;M
+Latte e Miele;G
+Luca Cola;M
+Coscarella e Polimeno;G
+Alice;F
+Loretta Goggi;F
+Dario Baldan Bembo;M
+Luca Barbarossa;M
+Paolo Barabani;M
+Michele Zarrillo;M
+Marcella;F
+Passengers;G
+Eduardo De Crescenzo;M
+Sterling Saint-Jacques;M
+Fiorella Mannoia;F
+Carmen & Thompson;G
+Stefano Tosi;M
+Gianni Bella;M
+Sebastiano Occhino;M
+Jò Chiarello;F
+Tom Hooker;M
+Domenico Mattia;M
+Franco Fasano;M
+Al Bano e Romina Power;G
+Giuseppe Cionfoli;M
+Christian;M
+Jimmy Fontana;M
+Lene Lovich;F
+Elisabetta Viviani;F
+Mia Martini;F
+Stefano Sani;M
+Le Orme;G
+Riccardo Del Turco;M
+Plastic Bertrand;M
+Milk & Coffee;G
+Viola Valentino;F
+Mal;G
+Mario Castelnuovo;M
+Roberto Soffici;M
+Zucchero Fornaciari;M
+Vasco Rossi;M
+Rino Martinez;M
+Marina Lai;F
+Julie;F
+Claudio Villa;M
+Piero Cassano;M
+Fiordaliso;F
+Tiziana Rivale;F
+Donatella Milani;F
+Dori Ghezzi;F
+Amii Stewart;F
+Marco Armani;M
+Giorgia Fiorio;F
+Flavia Fortunato;F
+Bertín Osborne;M
+Riccardo Azzurri;M
+Richard Sanderson;M
+Zucchero;M
+Barbara Boncompagni;F
+Daniela Goggi;F
+Pinot;M
+Brunella Borciani;F
+Patrizia Danzi;F
+Nino Buonocore;M
+Sibilla;F
+Alessio Colombini;M
+Manuele Pepe;M
+Amedeo Minghi;M
+Patty Pravo;F
+Gruppo Italiano;G
+Marisa Sannia;F
+Alberto Camerini;M
+Garbo;F
+Enrico Ruggeri;M
+Stadio;G
+Luis Miguel;M
+Eros Ramazzotti;M
+Banco del Mutuo Soccorso;G
+Ivan Graziani;M
+Eugenio Finardi;M
+Mimmo Locasciulli;M
+New Trolls;G
+Zucchero Fornaciari & Randy Jackson Band;G
+Renzo Arbore;M
+Nino D'Angelo;M
+Fred Bongusto;M
+Loredana Bertè;F
+Rettore;F
+Mango;M
+Righeira;G
+Scialpi;M
+Rossana Casale;F
+Gianni Morandi, Enrico Ruggeri e Umberto Tozzi;G
+Lena Biolcati;F
+Tony Esposito;M
+Sergio Caputo;M
+Massimo Ranieri;M
+Fiordaliso con Claudio Cabrini;G
+Raf;M
+Francesco Nuti;M
+Franco Califano;M
+Figli di Bubba;G
+Tullio De Piscopo;M
+Ron;M
+Denovo;G
+Alan Sorrenti;M
+Anna Oxa e Fausto Leali;G
+Jovanotti;M
+Francesco Salvi;M
+Ornella Vanoni;F
+Marisa Laurito;F
+Gino Paoli;M
+Renato Carosone;M
+Enzo Jannacci;M
+Gigi Sabani;M
+Pooh;G
+Amedeo Minghi e Mietta;G
+Marcella e Gianni Bella;G
+Caterina Caselli;F
+Paola Turci;F
+Grazia Di Michele;F
+Eugenio Bennato e Tony Esposito;G
+Riccardo Cocciante;M
+Renato Zero;M
+Marco Masini;M
+Umberto Tozzi;M
+Pierangelo Bertoli e Tazenda;G
+Mietta;F
+Jo Squillo e Sabrina Salerno;G
+Ladri di Biciclette;G
+Mariella Nava;F
+Paolo Vallesi;M
+Pierangelo Bertoli;M
+Franco Fasano e Flavia Fortunato;G
+Tazenda;G
+Peppino di Capri e Pietra Montecorvino;G
+Lina Sastri;F
+Paolo Mengoli;M
+Enzo Ghinazzi;M
+Nuova Compagnia di Canto Popolare;G
+Giorgio Faletti e Orietta Berti;G
+Formula 3;G
+Cristiano De Andrè;M
+Rossana Casale e Grazia Di Michele;G
+Mietta e Ragazzi di Via Meda;G
+Biagio Antonacci;M
+Francesca Alotta;F
+Andrea Mingardi;M
+Roberto Murolo;M
+Loredana Bertè e Mia Martini;G
+Jo Squillo;F
+Ladri di Biciclette e Tony Esposito;G
+Maurizio Vandelli, Dik Dik e Camaleonti;G
+Alessandro Canino;M
+Aleandro Baldi;M
+Giorgio Faletti;M
+Laura Pausini;F
+Gerardina Trovato;F
+Enzo Jannacci e Paolo Rossi;G
+Alessandro Bono;M
+Claudia Mori;F
+Carlo Marrale;M
+Squadra Italia;G
+Giorgia;F
+Gianni Morandi e Barbara Cola;G
+Ivana Spagna;F
+Andrea Bocelli;M
+Fiorello;M
+Danilo Amerio;M
+Lighea;F
+883;G
+Antonella Arancio;F
+Lorella Cuccarini;F
+Trio Melody;G
+Sabina Guzzanti e La Riserva Indiana;G
+Francesca Schiavo;F
+Valeria Visconti;F
+Giò Di Tonno;M
+Ron (con Tosca non accreditata);G
+Elio e le Storie Tese;G
+Neri per Caso;G
+Massimo Di Cataldo;M
+Aleandro Baldi e Marco Guerzoni;G
+Federico Salvatore;M
+Rossella Marcone;F
+Raffaella Cavalli;F
+Gigi Finizio;M
+Umberto Bindi e New Trolls;G
+Dhamm;G
+Mara;F
+Fedele Boccassini;M
+Jalisse;G
+Syria;F
+Silvia Salemi;F
+O.R.O.;G
+Nek;M
+Tosca;F
+Francesco Baccini;M
+Dirotta su Cuba;G
+Marina Rei;F
+Cattivi Pensieri;G
+Pitura Freska;G
+Ragazzi Italiani;G
+New Trolls e Greta;G
+Alessandro Mara;M
+Camilla;F
+Carmen Consoli;F
+Alessandro Errico;M
+Leandro Barsotti;M
+Maurizio Lauzi;M
+Olivia;F
+Adriana Ruocco;F
+Petra Magoni;F
+Annalisa Minetti;F
+Antonella Ruggiero;F
+Lisa;F
+Mango e Zenîma;G
+Luca Sepe;M
+Niccolò Fabi;M
+Alex Baroni;M
+Spagna;F
+Piccola Orchestra Avion Travel;G
+Paola & Chiara;G
+Enzo Gragnaniello con Ornella Vanoni;G
+Daniele Silvestri;M
+Gatto Panceri;M
+Gianluca Grignani;M
+Irene Grandi;F
+Max Gazzè;M
+Samuele Bersani;M
+Gigi D'Alessio;M
+Subsonica;G
+Mariella Nava e Amedeo Minghi;G
+Elisa;F
+Jenny B;F
+Alex Britti;M
+Fabio Concato;M
+Sottotono;G
+Quintorigo;G
+Bluvertigo;G
+Alexia;F
+Fausto Leali e Luisa Corna;G
+Filippa Giordano;F
+Francesco Renga;M
+Gazosa;F
+Alessandro Safina;M
+Lollipop;F
+Timoria;G
+Sergio Cammariere;M
+Enrico Ruggeri e Andrea Mirò;G
+Giuni Russo;F
+Cristiano De André;M
+Eiffel 65;G
+Bobby Solo e Little Tony;G
+Anna Tatangelo e Federico Stragà;G
+Negrita;G
+Mario Rosini;M
+Linda;F
+Paolo Meneguzzi;M
+Bungaro;M
+Massimo Modugno e Gipsy Kings;G
+Stefano Picchi;M
+Morris Albert e Mietta;G
+Neffa;M
+Mario Venuti;M
+DJ Francesco;M
+Simone Tomassini;M
+DB Boulevard e Bill Wyman;G
+Andrea Mingardi e The Blues Brothers Band;G
+Omar Pedrini;M
+Daniele Groff;M
+Adriano Pappalardo;M
+Veruska;F
+Andrè;M
+Danny Losito e Las Ketchup;G
+Pacifico;M
+Piotta;M
+Toto Cutugno con Annalisa Minetti;G
+Nicky Nicolai e Stefano Di Battista Jazz Quartet;G
+Laura Bono;F
+La Differenza;F
+Veronica Ventavoli;F
+Le Vibrazioni;G
+Anna Tatangelo;F
+DJ Francesco Band;G
+Nicola Arigliano;M
+Giovanna D'Angi;F
+Max De Angelis;M
+Equ;G
+Velvet;F
+Christian Lo Zito;M
+Sabrina Guida;F
+Modà;G
+Concido;G
+Enrico Boccadoro;M
+Negramaro;G
+Povia;M
+Nomadi;G
+Riccardo Maffoni;M
+Simone Cristicchi;M
+Dolcenera;F
+Zero Assoluto;G
+Simona Bencini;F
+Nicky Nicolai;F
+I Ragazzi di Scampia con Gigi Finizio;G
+Sugarfree;G
+Monia Russo;F
+L'Aura;F
+Helena Hellwig;F
+Tiziano Orecchio;M
+Noa, Carlo Fava & Solis String Quartet;G
+Luca Dirisio;M
+Andrea Ori;M
+Ameba 4;G
+Ivan Segreto;M
+Mario Venuti e Arancia Sonora;G
+Antonello;M
+Deasonika;G
+Virginio;M
+Piero Mazzocchetti;M
+Francesco con Roby Facchinetti;G
+Amalia Gré;F
+Paolo Rossi;M
+Johnny Dorelli;M
+Leda Battisti;F
+Giò Di Tonno e Lola Ponce;G
+Fabrizio Moro;M
+Finley;G
+Eugenio Bennato;M
+Frankie hi-nrg mc;M
+Tricarico;M
+Tiromancino;G
+Marco Carta;M
+Sal Da Vinci;M
+Alexia feat. Mario Lavezzi;G
+Pupo, Paolo Belli e Youssou N'Dour;G
+Gemelli DiVersi;G
+Nicky Nicolai e Stefano Di Battista;G
+Afterhours;G
+Valerio Scanu;M
+Pupo ed Emanuele Filiberto con Luca Canonici;G
+Marco Mengoni;M
+Noemi;F
+Malika Ayane;F
+Irene Fornaciari feat. Nomadi;G
+Arisa;F
+Nino D'Angelo con Maria Nazionale;G
+Sonohra;G
+Modà con Emma;G
+Davide Van De Sfroos;M
+Luca Madonia con Franco Battiato;G
+La Crus;G
+Nathalie;F
+Luca Barbarossa e Raquel del Rosario;G
+Giusy Ferreri;F
+Max Pezzali;M
+Emma;F
+Gigi D'Alessio e Loredana Bertè;G
+Pierdavide Carone e Lucio Dalla;G
+Nina Zilli;F
+Chiara Civello;F
+Irene Fornaciari;F
+Marlene Kuntz;G
+Raphael Gualazzi;M
+Chiara;F
+Annalisa;F
+Maria Nazionale;F
+Marta sui Tubi;F
+Simona Molinari con Peter Cincotti;G
+Almamegretta;G
+Raphael Gualazzi & The Bloody Beetroots;G
+Renzo Rubino;M
+Perturbazione;G
+Francesco Sarcina;M
+Giuliano Palma;M
+Riccardo Sinigallia;M
+Il Volo;G
+Dear Jack;G
+Lorenzo Fragola;M
+Nesli;M
+Bianca Atzei;F
+Moreno;M
+Grazia Di Michele e Mauro Coruzzi;G
+Biggio e Mandelli;G
+Lara Fabian;F
+Francesca Michielin;F
+Giovanni Caccamo e Deborah Iurato;G
+Clementino;M
+Rocco Hunt;M
+Alessio Bernabei;M
+Francesco Gabbani;M
+Ermal Meta;M
+Michele Bravi;M
+Sergio Sylvestre;M
+Elodie;F
+Samuel;M
+Lodovica Comello;F
+Nesli & Alice Paba;G
+Raige e Giulia Luzi;G
+Ermal Meta e Fabrizio Moro;G
+Lo Stato Sociale;G
+Ornella Vanoni con Bungaro e Pacifico;G
+Diodato e Roy Paci;G
+The Kolors;G
+Giovanni Caccamo;M
+Enzo Avitabile con Peppe Servillo;G
+Red Canzian;M
+Roby Facchinetti e Riccardo Fogli;G
+Mario Biondi;M
+Mahmood;M
+Ultimo;M
+Irama;M
+Achille Lauro;M
+Enrico Nigiotti;M
+Boomdabash;G
+Ghemon;M
+Ex-Otago;G
+Motta;M
+The Zen Circus;G
+Federica Carta e Shade;G
+Patty Pravo con Briga;G
+Einar;M
+Nino D'Angelo e Livio Cori;G
+Diodato;M
+Pinguini Tattici Nucleari;G
+Piero Pelù;M
+Rancore;M
+Levante;F
+Anastasio;M
+Alberto Urso;M
+Paolo Jannacci;M
+Giordana Angi;F
+Elettra Lamborghini;F
+Junior Cally;M
+Riki;M
+Bugo e Morgan;G
+Måneskin;G
+Francesca Michielin e Fedez;G
+Colapesce Dimartino;G
+Irama[20];M
+Willie Peyote;M
+Madame;F
+La Rappresentante di Lista;G
+Extraliscio feat. Davide Toffolo;G
+Fulminacci;M
+Fasma;G
+Gaia;F
+Coma_Cose;G
+Gio Evan;M
+Bugo;M
+Aiello;M
+Random;M
+Mahmood e Blanco;G
+Sangiovanni;M
+Dargen D'Amico;M
+Matteo Romano;M
+AKA 7even;M
+Achille Lauro con Harlem Gospel Choir;G
+Ditonellapiaga e Rettore;G
+Rkomi;M
+Giovanni Truppi;M
+Highsnob e Hu;G
+Yuman;M
+Ana Mena;F
+Tananai;M
+Lazza;M
+Mr. Rain;M
+Rosa Chemical;M
+Ariete;F
+LDA;G
+Articolo 31;G
+Leo Gassmann;M
+Mara Sattei;F
+Colla Zio;G
+Cugini di Campagna;G
+Gianmaria;M
+Olly;M
+Will;M
+Shari;F
+Sethu;M

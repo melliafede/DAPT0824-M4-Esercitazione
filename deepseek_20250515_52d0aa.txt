@@ -1,0 +1,299 @@
+Interprete,Sesso
+Fred Bongusto - Anna German,M;F
+Caterina Caselli - Sonny Bono e Cher,F;M;F
+Nico Fidenco - Cher,M;F
+Jimmy Fontana - Edoardo Vianello,M;M
+Mino Reitano - The Hollies,M;M
+Los Marcellos Ferial - The Happenings,M;M
+Domenico Modugno - Gidiuli,M;M
+Donatella Moretti - Bobby Goldsboro,F;M
+Milva - Los Bravos,F;M
+Sergio Endrigo - Roberto Carlos,M;M
+Ornella Vanoni - Marisa Sannia,F;F
+Adriano Celentano - Milva,M;F
+Fausto Leali - Wilson Pickett,M;M
+Antoine - Gianni Pettenati,M;M
+Anna Identici - The Sandpipers,F;M
+Massimo Ranieri - I Giganti,M;M
+Gigliola Cinquetti - Giuliana Valci,F;F
+Al Bano - Bobbie Gentry,M;F
+Little Tony - Mario Guarnera,M;M
+Wilma Goich - Dino,F;M
+Annarita Spinaci - Yoko Kishi,F;F
+Louis Armstrong - Lara Saint Paul,M;F
+Tony Del Monaco - Dionne Warwick,M;F
+Peppino Gagliardi - Eartha Kitt,M;F
+Tony Renis - Domenico Modugno,M;M
+Nino Ferrer - Pilade,M;M
+Johnny Dorelli - Paul Anka,M;M
+Elio Gandolfi - Shirley Bassey,M;F
+The Rokes - The Cowsills,M;M
+Pino Donaggio - Timi Yuro,M;F
+Giusy Romeo - Sacha Distel,F;M
+Iva Zanicchi - Udo Jürgens,F;M
+Orietta Berti - Piergiorgio Farina,F;M
+Bobby Solo - Iva Zanicchi,M;F
+Sergio Endrigo - Mary Hopkin,M;F
+Don Backy - Milva,M;F
+Fausto Leali - Tony Del Monaco,M;M
+Nada - The Rokes,F;M
+Gigliola Cinquetti - France Gall,F;F
+Mal - The Showmen,M;M
+Caterina Caselli - Johnny Dorelli,F;M
+Lucio Battisti - Wilson Pickett,M;M
+Orietta Berti - Massimo Ranieri,F;M
+Carmen Villani - Alessandra Casaccia,F;F
+Rita Pavone - Dik Dik,F;M
+Riccardo Del Turco - Antoine,M;M
+Junior Magli - The Casuals,M;M
+Wilma Goich - The Sweet Inspirations,F;F
+Checco - Elio Gandolfi,M;M
+Rosanna Fratello - Brenton Wood,F;M
+New Trolls - Leonardo,M;M
+Robertino - Rocky Roberts,M;M
+Mino Reitano - Claudio Villa,M;M
+Armando Savini - Sonia,M;F
+Gabriella Ferri - Stevie Wonder,F;M
+Memo Remigi - Isabella Iannetti,M;F
+Adriano Celentano - Claudia Mori,M;F
+Nicola Di Bari - Ricchi e Poveri,M;M;F
+Sergio Endrigo - Iva Zanicchi,M;F
+Ornella Vanoni - Camaleonti,F;M
+Patty Pravo - Little Tony,F;M
+Gigliola Cinquetti - Bobby Solo,F;M
+Rosalino Cellamare - Nada,M;F
+Antoine - Anna Identici,M;F
+Orietta Berti - Mario Tessuto,F;M
+Luciano Tajoli - Mal,M;M
+Gianni Nazzaro - Marisa Sannia,M;F
+Fausto Leali - Carmen Villani,M;F
+Tony Renis - Sergio Leonardi,M;M
+Nino Ferrer - Caterina Caselli,M;F
+Rocky Roberts - Il Supergruppo,M;M
+Rita Pavone - Valeria Mongardini,F;F
+Ragazzi della via Gluck - Paolo Mengoli,M;M
+Pino Donaggio - Sandie Shaw,M;F
+Rosanna Fratello - I Domodossola,F;M
+Donatello - Dik Dik,M;M
+Michele - Lucia Rizzi,M;F
+Emiliana Perina - Gens,F;M
+Renato Rascel - Pio,M;M
+Rossano - Dori Ghezzi,M;F
+Francesco Banti - Dino Drusiani,M;M
+Claudio Villa - Tony Del Monaco,M;M
+Nada - Nicola Di Bari,F;M
+Ricchi e Poveri - José Feliciano,M;F;M
+Lucio Dalla - Equipe 84,M;M
+Donatello - Marisa Sannia,M;F
+Adriano Celentano - Coro Alpino Milanese,M;M
+Domenico Modugno - Carmen Villani,M;F
+Don Backy - Gianni Nazzaro,M;M
+Al Bano - Aguaviva,M;M
+Gigliola Cinquetti - Ray Conniff,F;M
+Caterina Caselli - Dik Dik,F;M
+Pino Donaggio - Peppino Di Capri,M;M
+Little Tony - Formula 3,M;M
+Sergio Endrigo - New Trolls,M;M
+Sergio Menegale - Wallace Collection,M;M
+Rosanna Fratello - Nino Ferrer,F;M
+Maurizio & Fabrizio - Protagonisti,M;M
+Paolo Mengoli - Mark e Martha,M;M;F
+I Giganti - Fabio Trioli,M;M
+Jordan e i middle of the road - Gens,M;M
+Edda Ollari - Lorenza Visconti,F;F
+Nomadi - Mal,M;M
+Pio - Mau Cristiani,M;M
+Piero Focaccia - Mungo Jerry,M;M
+Nicola Di Bari,M
+Peppino Gagliardi,M
+Nada,F
+Gianni Morandi,M
+Gianni Nazzaro,M
+Delirium,M
+Marcella Bella,F
+Lucio Dalla,M
+Gigliola Cinquetti,F
+Donatello,M
+Ricchi e Poveri,M;F
+Milva,F
+Lara Saint Paul,F
+Domenico Modugno,M
+Rita Pavone,F
+Pino Donaggio,M
+Aguaviva,M
+Anna Identici,F
+Michele,M
+Carla Bissi,F
+Fausto Leali,M
+Marisa Sacchetto,F
+Delia,F
+Angelica,F
+Tony Cucchiara,M
+Bobby Solo,M
+Roberto Carlos,M
+I Nuovi Angeli,M
+Peppino Di Capri,M
+Gilda Giuliani,F
+Wess e Dori Ghezzi,M;F
+Roberto Vecchioni,M
+Umberto Balsamo,M
+Camaleonti,M
+Memo Remigi,M
+Alessandro,M
+Lionello,M
+Mocedades,F
+Pop Tops,M
+Jet,M
+Bassano,M
+Carmen Amato,F
+Sergio Endrigo,M
+Lolita,F
+Christian De Sica,M
+Alberto Feri,M
+Junior Magli,M
+Le Figlie del Vento,F
+Drupi,M
+Toni Santagata,M
+Iva Zanicchi,F
+Orietta Berti,F
+Anna Melato,F
+Emanuela Cortesi,F
+I Domodossola,M
+Les Charlots,M
+Valentina Greco,F
+Mouth & MacNeal,M;F
+Al Bano,M
+Mino Reitano,M
+Rosanna Fratello,F
+Little Tony,M
+Middle of the Road,F
+Kambiz,M
+Donatella Rettore,F
+Riccardo Fogli,M
+Franco Simone,M
+Orchestra Spettacolo Casadei,M
+Paola Musiani,F
+Antonella Bottazzi,F
+Rossella,F
+Sonia Gigliola Conti,F
+Piero Focaccia,M
+Gilda,F
+Angela Luce,F
+Laura,F
+Franco e le Piccole Donne,M;F
+Le Nuove Erbe,M
+Nico dei Gabbiani,M
+Eugenio Alberti,M
+Gianni Migliardi,M
+Piero Cotto,M
+Stefania,F
+Emy Cesaroni,F
+Gabriella Sanna,F
+Daniela,F
+Eva 2000,F
+Jean-François Michael,M
+Annagloria,F
+Antonella Bellan,F
+Lorenzo Pilat,M
+G.Men,M
+Kriss and Saratoga,M;F
+La Quinta Faccia,M
+Paola Folzini,F
+Goffredo Canarini,M
+Le Volpi Blu,M
+Leila Selli,F
+Nannarella,F
+Ely Neri e la sua orchestra,F;M
+Sandro Giacobbe,M
+Albatros,M
+Paolo Frescura,M
+Carlo Gigli,M
+Daniel Sentacruz Ensemble,M
+Gli Opera,M
+La Strana Società,M
+Ricchi e Poveri con I Nostri Figli,M;F
+Patrizio Sandrelli,M
+Miko,M
+Profeti,M
+La Nuova Gente,M
+Santino Rocchetti,M
+Gloriana,F
+Antonio Buonomo,M
+Leano Morelli,M
+Romina Power,F
+Maggie Mae,F
+Armonium,M
+Vanna Leali,F
+Umberto Lupi,M
+Ezio Maria Picciotta,M
+Silvano Vittorio,M
+Homo Sapiens,M
+Collage,M
+I Santo California,M
+Umberto Napolitano,M
+Daniela Davoli,F
+Matia Bazar,M;F
+Il Giardino dei Semplici,M
+Anna Oxa,F
+Rino Gaetano,M
+Ciro Sebastianelli,M
+Anselmo Genovese,M
+Schola Cantorum,M
+Laura Luca,F
+Donato Ciletti,M
+Roberto Carrino,M
+Dora Moroni,F
+Marco Ferradini,M
+Beans,M
+Mino Vergnaghi,M
+Enzo Carella,M
+I Camaleonti,M
+Enrico Beruschi,M
+Franco Fanigliulo,M
+Lorella Pescerelli,F
+Kim & The Cadillacs,M
+Pandemonium,M
+Antoine,M
+Grimm,M
+Marinella,F
+Ayx,M
+Nicoletta Bauce,F
+Il Était une Fois,M
+Michele Vicino,M
+Roberta,F
+Massimo Abbate,M
+Gianni Mocchetti,M
+Toto Cutugno,M
+Enzo Malepasso,M
+Pupo,M
+La Bottega dell'Arte,M
+Sally Oldfield,F
+Stefano Rosso,M
+Leroy Gomez,M
+Paolo Riviera,M
+Decibel,M
+Francesco Magni,M
+Aldo Donati,M
+Giorgio Zito e i Diesel,M
+Linda Lee,F
+Bruno D'Andrea,M
+Orlando Johnson,M
+Alberto Cheli,M
+Peppino di Capri,M
+Omelet,M
+Rimmel,M
+Henry Freis,M
+Mela Lo Cicero,F
+Gianfranco De Angelis,M
+Alberto Beltrami,M
+Latte e Miele,M
+Luca Cola,M
+Coscarella e Polimeno,M
+Alice,F
+Loretta Goggi,F
+Dario Baldan Bembo,M
+Luca Barbarossa,M
+Paolo Barabani,M
+Michele Zarrillo,M
+Marcella,F
+Passengers,M

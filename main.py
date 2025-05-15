@@ -6,7 +6,7 @@ pd.set_option("display.max_columns", None)
 pd.set_option("display.max_rows", None)
 pd.set_option("display.width", None)
 
-file_path = "dati-classifica-sanremo-1951-2023.xlsx"
+file_path = "original_datasets/dati-classifica-sanremo-1951-2023.xlsx"
 df = pd.read_excel(io=file_path)
 df = df.set_index("Unnamed: 0")
 df.index.name = None
@@ -14,7 +14,7 @@ df.index.name = None
 # print(df)
 # exit()
 
-file_path = "interpreti_sesso.txt"
+file_path = "aux_datasets/interpreti_sesso.txt"
 interpreti_sesso_df = pd.read_csv(filepath_or_buffer=file_path, sep=";")
 # print(interpreti_sesso_df)
 # exit()
@@ -178,8 +178,8 @@ numero_titoli = df.shape[0]
 print(df)
 
 """ Scrittura files """
-pos_df.to_csv("pos_interpreti.csv", index=False, encoding="utf-8")
-top3_df.to_csv("top3_titles.csv", index=False, encoding="utf-8")
-winning_df.to_csv("winning_titles.csv", index=False, encoding="utf-8")
-words_df.to_csv("words_count.csv", index=False, encoding="utf-8")
-df.to_csv("output.csv", index=False, encoding="utf-8")
+pos_df.to_csv("output_datasets/pos_interpreti.csv", index=False, encoding="utf-8")
+top3_df.to_csv("output_datasets/top3_titles.csv", index=False, encoding="utf-8")
+winning_df.to_csv("output_datasets/winning_titles.csv", index=False, encoding="utf-8")
+words_df.to_csv("output_datasets/words_count.csv", index=False, encoding="utf-8")
+df.to_csv("output_datasets/output.csv", index=False, encoding="utf-8")
